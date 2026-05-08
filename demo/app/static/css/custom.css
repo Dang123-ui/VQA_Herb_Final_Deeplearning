@@ -1,0 +1,60 @@
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 420, 'GRAD' 0, 'opsz' 24;
+}
+
+.sample-question-chip {
+  border-radius: 9999px;
+  background: #eef3ee;
+  color: #17201a;
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  transition: background 160ms ease, transform 160ms ease;
+}
+
+.sample-question-chip:hover {
+  background: #dff4e8;
+  transform: translateY(-1px);
+}
+
+.metric-tile {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  border: 1px solid #c4d0c7;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  padding: 1rem;
+}
+
+.metric-tile .material-symbols-outlined {
+  color: #176b45;
+}
+
+.metric-label {
+  color: #506057;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.metric-value {
+  color: #17201a;
+  font-weight: 800;
+  margin-top: 0.1rem;
+}
+
+.footer-link {
+  color: #506057;
+  font-family: Manrope, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  transition: color 160ms ease;
+}
+
+.footer-link:hover {
+  color: #176b45;
+}

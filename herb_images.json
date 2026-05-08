@@ -1,0 +1,8374 @@
+[
+  {
+    "id": "P000000001",
+    "name": "Cao cẳng bắc bộ"
+  },
+  {
+    "id": "P000000002",
+    "name": "Cao cẳng lá mác"
+  },
+  {
+    "id": "P000000003",
+    "name": "Cao cẳng lá mác"
+  },
+  {
+    "id": "P000000004",
+    "name": "Cao cẳng lá mác"
+  },
+  {
+    "id": "P000000005",
+    "name": "Cao cẳng trung gian"
+  },
+  {
+    "id": "P000000006",
+    "name": "Cao cẳng trung gian"
+  },
+  {
+    "id": "P000000007",
+    "name": "Cao cẳng trung gian"
+  },
+  {
+    "id": "P000000008",
+    "name": "Sài hồ"
+  },
+  {
+    "id": "P000000009",
+    "name": "Sài hồ"
+  },
+  {
+    "id": "P000000010",
+    "name": "Sài hồ"
+  },
+  {
+    "id": "P000000011",
+    "name": "Dây lửa ít gân"
+  },
+  {
+    "id": "P000000012",
+    "name": "Trám hồng"
+  },
+  {
+    "id": "P000000013",
+    "name": "Trám hồng"
+  },
+  {
+    "id": "P000000014",
+    "name": "Trám hồng"
+  },
+  {
+    "id": "P000000015",
+    "name": "Thiên danh tinh"
+  },
+  {
+    "id": "P000000016",
+    "name": "Nho biển"
+  },
+  {
+    "id": "P000000017",
+    "name": "Nho biển"
+  },
+  {
+    "id": "P000000018",
+    "name": "Nho biển"
+  },
+  {
+    "id": "P000000019",
+    "name": "Nho biển"
+  },
+  {
+    "id": "P000000020",
+    "name": "Nho biển"
+  },
+  {
+    "id": "P000000021",
+    "name": "Su hào"
+  },
+  {
+    "id": "P000000022",
+    "name": "Su hào"
+  },
+  {
+    "id": "P000000023",
+    "name": "Su hào"
+  },
+  {
+    "id": "P000000024",
+    "name": "Su hào"
+  },
+  {
+    "id": "P000000025",
+    "name": "Su hào"
+  },
+  {
+    "id": "P000000026",
+    "name": "Hương thảo"
+  },
+  {
+    "id": "P000000027",
+    "name": "Hương thảo"
+  },
+  {
+    "id": "P000000028",
+    "name": "Hương thảo"
+  },
+  {
+    "id": "P000000029",
+    "name": "Hương thảo"
+  },
+  {
+    "id": "P000000030",
+    "name": "Hương thảo"
+  },
+  {
+    "id": "P000000031",
+    "name": "Chanh trường"
+  },
+  {
+    "id": "P000000032",
+    "name": "Chanh trường"
+  },
+  {
+    "id": "P000000033",
+    "name": "Chanh trường"
+  },
+  {
+    "id": "P000000034",
+    "name": "Chanh trường"
+  },
+  {
+    "id": "P000000035",
+    "name": "Chanh trường"
+  },
+  {
+    "id": "P000000036",
+    "name": "Sương sáo"
+  },
+  {
+    "id": "P000000037",
+    "name": "Sương sáo"
+  },
+  {
+    "id": "P000000038",
+    "name": "Sương sáo"
+  },
+  {
+    "id": "P000000039",
+    "name": "Bản xé thơm"
+  },
+  {
+    "id": "P000000040",
+    "name": "Bại tượng hoa trắng"
+  },
+  {
+    "id": "P000000041",
+    "name": "Bại tượng hoa trắng"
+  },
+  {
+    "id": "P000000042",
+    "name": "Bại tượng hoa trắng"
+  },
+  {
+    "id": "P000000043",
+    "name": "Bại tượng hoa trắng"
+  },
+  {
+    "id": "P000000044",
+    "name": "A kê"
+  },
+  {
+    "id": "P000000045",
+    "name": "A kê"
+  },
+  {
+    "id": "P000000046",
+    "name": "A kê"
+  },
+  {
+    "id": "P000000047",
+    "name": "A kê"
+  },
+  {
+    "id": "P000000048",
+    "name": "Áo cộc"
+  },
+  {
+    "id": "P000000049",
+    "name": "Áo cộc"
+  },
+  {
+    "id": "P000000050",
+    "name": "Áo cộc"
+  },
+  {
+    "id": "P000000051",
+    "name": "Áo cộc"
+  },
+  {
+    "id": "P000000052",
+    "name": "Anh đào"
+  },
+  {
+    "id": "P000000053",
+    "name": "Anh đào"
+  },
+  {
+    "id": "P000000054",
+    "name": "Anh đào"
+  },
+  {
+    "id": "P000000055",
+    "name": "Anh đào"
+  },
+  {
+    "id": "P000000056",
+    "name": "Anh thảo"
+  },
+  {
+    "id": "P000000057",
+    "name": "Anh thảo"
+  },
+  {
+    "id": "P000000058",
+    "name": "Anh thảo"
+  },
+  {
+    "id": "P000000059",
+    "name": "Anh thảo"
+  },
+  {
+    "id": "P000000060",
+    "name": "Sâm tố nữ"
+  },
+  {
+    "id": "P000000061",
+    "name": "Sâm tố nữ"
+  },
+  {
+    "id": "P000000062",
+    "name": "Sâm tố nữ"
+  },
+  {
+    "id": "P000000063",
+    "name": "Sâm tố nữ"
+  },
+  {
+    "id": "P000000064",
+    "name": "Sâm tố nữ"
+  },
+  {
+    "id": "P000000065",
+    "name": "Giảo cổ lam"
+  },
+  {
+    "id": "P000000066",
+    "name": "Giảo cổ lam"
+  },
+  {
+    "id": "P000000067",
+    "name": "Giảo cổ lam"
+  },
+  {
+    "id": "P000000068",
+    "name": "Giảo cổ lam"
+  },
+  {
+    "id": "P000000069",
+    "name": "Giảo cổ lam"
+  },
+  {
+    "id": "P000000070",
+    "name": "Thảo quả"
+  },
+  {
+    "id": "P000000071",
+    "name": "Thảo quả"
+  },
+  {
+    "id": "P000000072",
+    "name": "Thảo quả"
+  },
+  {
+    "id": "P000000073",
+    "name": "Sâm cau"
+  },
+  {
+    "id": "P000000074",
+    "name": "Sâm cau"
+  },
+  {
+    "id": "P000000075",
+    "name": "Sâm cau"
+  },
+  {
+    "id": "P000000076",
+    "name": "Sâm cau"
+  },
+  {
+    "id": "P000000077",
+    "name": "Cà gai leo"
+  },
+  {
+    "id": "P000000078",
+    "name": "Cà gai leo"
+  },
+  {
+    "id": "P000000079",
+    "name": "Cà gai leo"
+  },
+  {
+    "id": "P000000080",
+    "name": "Cà gai leo"
+  },
+  {
+    "id": "P000000081",
+    "name": "Xạ can"
+  },
+  {
+    "id": "P000000082",
+    "name": "Xạ can"
+  },
+  {
+    "id": "P000000083",
+    "name": "Xạ can"
+  },
+  {
+    "id": "P000000084",
+    "name": "Xạ can"
+  },
+  {
+    "id": "P000000085",
+    "name": "Tỏi"
+  },
+  {
+    "id": "P000000086",
+    "name": "Tỏi"
+  },
+  {
+    "id": "P000000087",
+    "name": "Tỏi"
+  },
+  {
+    "id": "P000000088",
+    "name": "Địa Liền"
+  },
+  {
+    "id": "P000000089",
+    "name": "Địa Liền"
+  },
+  {
+    "id": "P000000090",
+    "name": "Địa Liền"
+  },
+  {
+    "id": "P000000091",
+    "name": "Địa Liền"
+  },
+  {
+    "id": "P000000092",
+    "name": "Sữa ong chúa"
+  },
+  {
+    "id": "P000000093",
+    "name": "Sữa ong chúa"
+  },
+  {
+    "id": "P000000094",
+    "name": "Sữa ong chúa"
+  },
+  {
+    "id": "P000000095",
+    "name": "Lược vàng"
+  },
+  {
+    "id": "P000000096",
+    "name": "Lược vàng"
+  },
+  {
+    "id": "P000000097",
+    "name": "Lược vàng"
+  },
+  {
+    "id": "P000000098",
+    "name": "Lược vàng"
+  },
+  {
+    "id": "P000000099",
+    "name": "Dừa nước (Dừa lá)"
+  },
+  {
+    "id": "P000000100",
+    "name": "Dừa nước (Dừa lá)"
+  },
+  {
+    "id": "P000000101",
+    "name": "Dừa nước (Dừa lá)"
+  },
+  {
+    "id": "P000000102",
+    "name": "Dừa nước (Dừa lá)"
+  },
+  {
+    "id": "P000000103",
+    "name": "Bạch nhất hồng"
+  },
+  {
+    "id": "P000000104",
+    "name": "Bạch nhất hồng"
+  },
+  {
+    "id": "P000000105",
+    "name": "Bạch nhất hồng"
+  },
+  {
+    "id": "P000000106",
+    "name": "Mùng thơm"
+  },
+  {
+    "id": "P000000107",
+    "name": "Mùng thơm"
+  },
+  {
+    "id": "P000000108",
+    "name": "Mùng thơm"
+  },
+  {
+    "id": "P000000109",
+    "name": "Muồng nước"
+  },
+  {
+    "id": "P000000110",
+    "name": "Muồng nước"
+  },
+  {
+    "id": "P000000111",
+    "name": "Muồng nước"
+  },
+  {
+    "id": "P000000112",
+    "name": "Muồng trinh nữ"
+  },
+  {
+    "id": "P000000113",
+    "name": "Muồng trinh nữ"
+  },
+  {
+    "id": "P000000114",
+    "name": "Muồng trinh nữ"
+  },
+  {
+    "id": "P000000115",
+    "name": "Muỗm"
+  },
+  {
+    "id": "P000000116",
+    "name": "Muỗm"
+  },
+  {
+    "id": "P000000117",
+    "name": "Muỗm"
+  },
+  {
+    "id": "P000000118",
+    "name": "Muỗm"
+  },
+  {
+    "id": "P000000119",
+    "name": "Nàng nàng lá to"
+  },
+  {
+    "id": "P000000120",
+    "name": "Nàng nàng lá to"
+  },
+  {
+    "id": "P000000121",
+    "name": "Nàng nàng lá to"
+  },
+  {
+    "id": "P000000122",
+    "name": "Nắp ấm hoa đôi"
+  },
+  {
+    "id": "P000000123",
+    "name": "Nắp ấm hoa đôi"
+  },
+  {
+    "id": "P000000124",
+    "name": "Nắp ấm hoa đôi"
+  },
+  {
+    "id": "P000000125",
+    "name": "Nắp ấm hoa đôi"
+  },
+  {
+    "id": "P000000126",
+    "name": "Ngà voi"
+  },
+  {
+    "id": "P000000127",
+    "name": "Ngà voi"
+  },
+  {
+    "id": "P000000128",
+    "name": "Ngải đắng"
+  },
+  {
+    "id": "P000000129",
+    "name": "Ngải đắng"
+  },
+  {
+    "id": "P000000130",
+    "name": "Ngải đắng"
+  },
+  {
+    "id": "P000000131",
+    "name": "Nghể chàm"
+  },
+  {
+    "id": "P000000132",
+    "name": "Nghể chàm"
+  },
+  {
+    "id": "P000000133",
+    "name": "Nghệ xanh"
+  },
+  {
+    "id": "P000000134",
+    "name": "Nghệ xanh"
+  },
+  {
+    "id": "P000000135",
+    "name": "Nghệ xanh"
+  },
+  {
+    "id": "P000000136",
+    "name": "Ngô đồng"
+  },
+  {
+    "id": "P000000137",
+    "name": "Ngô đồng"
+  },
+  {
+    "id": "P000000138",
+    "name": "Ngô đồng"
+  },
+  {
+    "id": "P000000139",
+    "name": "Nho núi"
+  },
+  {
+    "id": "P000000140",
+    "name": "Nho núi"
+  },
+  {
+    "id": "P000000141",
+    "name": "Nho núi"
+  },
+  {
+    "id": "P000000142",
+    "name": "Ngải nhật"
+  },
+  {
+    "id": "P000000143",
+    "name": "Ngải nhật"
+  },
+  {
+    "id": "P000000144",
+    "name": "Ngải nhật"
+  },
+  {
+    "id": "P000000145",
+    "name": "Nọc xoài"
+  },
+  {
+    "id": "P000000146",
+    "name": "Nọc xoài"
+  },
+  {
+    "id": "P000000147",
+    "name": "Ô liu"
+  },
+  {
+    "id": "P000000148",
+    "name": "Ô liu"
+  },
+  {
+    "id": "P000000149",
+    "name": "Ô liu"
+  },
+  {
+    "id": "P000000150",
+    "name": "Phượng vĩ"
+  },
+  {
+    "id": "P000000151",
+    "name": "Phượng vĩ"
+  },
+  {
+    "id": "P000000152",
+    "name": "Phượng vĩ"
+  },
+  {
+    "id": "P000000153",
+    "name": "Qua lâu trắng"
+  },
+  {
+    "id": "P000000154",
+    "name": "Qua lâu trắng"
+  },
+  {
+    "id": "P000000155",
+    "name": "Qua lâu trắng"
+  },
+  {
+    "id": "P000000156",
+    "name": "Ráng cánh bần"
+  },
+  {
+    "id": "P000000157",
+    "name": "Ráng cánh bần"
+  },
+  {
+    "id": "P000000158",
+    "name": "Ráng cánh bần"
+  },
+  {
+    "id": "P000000159",
+    "name": "Ráng lông"
+  },
+  {
+    "id": "P000000160",
+    "name": "Ráng lông"
+  },
+  {
+    "id": "P000000161",
+    "name": "Rau bao"
+  },
+  {
+    "id": "P000000162",
+    "name": "Rau bao"
+  },
+  {
+    "id": "P000000163",
+    "name": "Rau bao"
+  },
+  {
+    "id": "P000000164",
+    "name": "Rau càng cua"
+  },
+  {
+    "id": "P000000165",
+    "name": "Rau càng cua"
+  },
+  {
+    "id": "P000000166",
+    "name": "Rau diếp đắng"
+  },
+  {
+    "id": "P000000167",
+    "name": "Rau diếp đắng"
+  },
+  {
+    "id": "P000000168",
+    "name": "Rau diếp đắng"
+  },
+  {
+    "id": "P000000169",
+    "name": "Cây rau mát"
+  },
+  {
+    "id": "P000000170",
+    "name": "Cây rau mát"
+  },
+  {
+    "id": "P000000171",
+    "name": "Cây rau mát"
+  },
+  {
+    "id": "P000000172",
+    "name": "Rau muối"
+  },
+  {
+    "id": "P000000173",
+    "name": "Rau muối"
+  },
+  {
+    "id": "P000000174",
+    "name": "Rau muối"
+  },
+  {
+    "id": "P000000175",
+    "name": "Rau muối"
+  },
+  {
+    "id": "P000000176",
+    "name": "Rau muối"
+  },
+  {
+    "id": "P000000177",
+    "name": "Rau ngổ trâu"
+  },
+  {
+    "id": "P000000178",
+    "name": "Rau ngổ trâu"
+  },
+  {
+    "id": "P000000179",
+    "name": "Rau tàu bay"
+  },
+  {
+    "id": "P000000180",
+    "name": "Rau tàu bay"
+  },
+  {
+    "id": "P000000181",
+    "name": "Rau tàu bay"
+  },
+  {
+    "id": "P000000182",
+    "name": "Rau tàu bay"
+  },
+  {
+    "id": "P000000183",
+    "name": "Rau tàu bay"
+  },
+  {
+    "id": "P000000184",
+    "name": "Rau trai đắng"
+  },
+  {
+    "id": "P000000185",
+    "name": "Rau trai đắng"
+  },
+  {
+    "id": "P000000186",
+    "name": "Rau trai đắng"
+  },
+  {
+    "id": "P000000187",
+    "name": "Râu rồng"
+  },
+  {
+    "id": "P000000188",
+    "name": "Râu rồng"
+  },
+  {
+    "id": "P000000189",
+    "name": "Râu rồng"
+  },
+  {
+    "id": "P000000190",
+    "name": "Rì rì cát"
+  },
+  {
+    "id": "P000000191",
+    "name": "Rì rì cát"
+  },
+  {
+    "id": "P000000192",
+    "name": "Riềng rừng"
+  },
+  {
+    "id": "P000000193",
+    "name": "Riềng rừng"
+  },
+  {
+    "id": "P000000194",
+    "name": "Rù rì sông"
+  },
+  {
+    "id": "P000000195",
+    "name": "Rù rì sông"
+  },
+  {
+    "id": "P000000196",
+    "name": "Rung quả nhỏ"
+  },
+  {
+    "id": "P000000197",
+    "name": "Rung quả nhỏ"
+  },
+  {
+    "id": "P000000198",
+    "name": "Rung quả nhỏ"
+  },
+  {
+    "id": "P000000199",
+    "name": "Rút dại"
+  },
+  {
+    "id": "P000000200",
+    "name": "Rút dại"
+  },
+  {
+    "id": "P000000201",
+    "name": "Rút dại"
+  },
+  {
+    "id": "P000000202",
+    "name": "Cây sam biển"
+  },
+  {
+    "id": "P000000203",
+    "name": "Cây sam biển"
+  },
+  {
+    "id": "P000000204",
+    "name": "Cây sam biển"
+  },
+  {
+    "id": "P000000205",
+    "name": "Sẻn hôi"
+  },
+  {
+    "id": "P000000206",
+    "name": "Sẻn hôi"
+  },
+  {
+    "id": "P000000207",
+    "name": "Sẻn hôi"
+  },
+  {
+    "id": "P000000208",
+    "name": "Sơn cúc hai hoa"
+  },
+  {
+    "id": "P000000209",
+    "name": "Sơn cúc hai hoa"
+  },
+  {
+    "id": "P000000210",
+    "name": "Sơn cúc hai hoa"
+  },
+  {
+    "id": "P000000211",
+    "name": "Sơn dịch"
+  },
+  {
+    "id": "P000000212",
+    "name": "Sơn dịch"
+  },
+  {
+    "id": "P000000213",
+    "name": "Sơn tuế"
+  },
+  {
+    "id": "P000000214",
+    "name": "Sơn tuế"
+  },
+  {
+    "id": "P000000215",
+    "name": "Cây Sú"
+  },
+  {
+    "id": "P000000216",
+    "name": "Cây Sú"
+  },
+  {
+    "id": "P000000217",
+    "name": "Cây Sú"
+  },
+  {
+    "id": "P000000218",
+    "name": "Sung ngọt"
+  },
+  {
+    "id": "P000000219",
+    "name": "Sung ngọt"
+  },
+  {
+    "id": "P000000220",
+    "name": "Sung ngọt"
+  },
+  {
+    "id": "P000000221",
+    "name": "Súp lơ"
+  },
+  {
+    "id": "P000000222",
+    "name": "Súp lơ"
+  },
+  {
+    "id": "P000000223",
+    "name": "Súp lơ"
+  },
+  {
+    "id": "P000000224",
+    "name": "Sư nhĩ"
+  },
+  {
+    "id": "P000000225",
+    "name": "Sư nhĩ"
+  },
+  {
+    "id": "P000000226",
+    "name": "Sư nhĩ"
+  },
+  {
+    "id": "P000000227",
+    "name": "Sữa lá to"
+  },
+  {
+    "id": "P000000228",
+    "name": "Sữa lá to"
+  },
+  {
+    "id": "P000000229",
+    "name": "Sữa lá to"
+  },
+  {
+    "id": "P000000230",
+    "name": "Tai nghé"
+  },
+  {
+    "id": "P000000231",
+    "name": "Tai nghé"
+  },
+  {
+    "id": "P000000232",
+    "name": "Tai nghé"
+  },
+  {
+    "id": "P000000233",
+    "name": "Tai tượng úc"
+  },
+  {
+    "id": "P000000234",
+    "name": "Tai tượng úc"
+  },
+  {
+    "id": "P000000235",
+    "name": "Tai tượng úc"
+  },
+  {
+    "id": "P000000236",
+    "name": "Tần bì"
+  },
+  {
+    "id": "P000000237",
+    "name": "Tần bì"
+  },
+  {
+    "id": "P000000238",
+    "name": "Tần bì"
+  },
+  {
+    "id": "P000000239",
+    "name": "Tần giao"
+  },
+  {
+    "id": "P000000240",
+    "name": "Tần giao"
+  },
+  {
+    "id": "P000000241",
+    "name": "Tần giao"
+  },
+  {
+    "id": "P000000242",
+    "name": "Tếch"
+  },
+  {
+    "id": "P000000243",
+    "name": "Tếch"
+  },
+  {
+    "id": "P000000244",
+    "name": "Tếch"
+  },
+  {
+    "id": "P000000245",
+    "name": "Thạch hộc tuyết mai"
+  },
+  {
+    "id": "P000000246",
+    "name": "Thạch hộc tuyết mai"
+  },
+  {
+    "id": "P000000247",
+    "name": "Thạch hộc tuyết mai"
+  },
+  {
+    "id": "P000000248",
+    "name": "Thạch toán"
+  },
+  {
+    "id": "P000000249",
+    "name": "Thạch toán"
+  },
+  {
+    "id": "P000000250",
+    "name": "Thạch toán"
+  },
+  {
+    "id": "P000000251",
+    "name": "Thài lài lông"
+  },
+  {
+    "id": "P000000252",
+    "name": "Thài lài lông"
+  },
+  {
+    "id": "P000000253",
+    "name": "Thài lài lông"
+  },
+  {
+    "id": "P000000254",
+    "name": "Thanh thất"
+  },
+  {
+    "id": "P000000255",
+    "name": "Thanh thất"
+  },
+  {
+    "id": "P000000256",
+    "name": "Thanh thất"
+  },
+  {
+    "id": "P000000257",
+    "name": "Thanh thất núi cao"
+  },
+  {
+    "id": "P000000258",
+    "name": "Thanh thất núi cao"
+  },
+  {
+    "id": "P000000259",
+    "name": "Thanh thất núi cao"
+  },
+  {
+    "id": "P000000260",
+    "name": "Thảo đậu khấu bắc"
+  },
+  {
+    "id": "P000000261",
+    "name": "Thảo đậu khấu bắc"
+  },
+  {
+    "id": "P000000262",
+    "name": "Thảo đậu khấu bắc"
+  },
+  {
+    "id": "P000000263",
+    "name": "Thảo đậu khấu bắc"
+  },
+  {
+    "id": "P000000264",
+    "name": "Thóc lép bướm"
+  },
+  {
+    "id": "P000000265",
+    "name": "Thóc lép bướm"
+  },
+  {
+    "id": "P000000266",
+    "name": "Thóc lép bướm"
+  },
+  {
+    "id": "P000000267",
+    "name": "Thóc lép động"
+  },
+  {
+    "id": "P000000268",
+    "name": "Thóc lép động"
+  },
+  {
+    "id": "P000000269",
+    "name": "Thóc lép động"
+  },
+  {
+    "id": "P000000270",
+    "name": "Thóc lép nhiều quả"
+  },
+  {
+    "id": "P000000271",
+    "name": "Thóc lép nhiều quả"
+  },
+  {
+    "id": "P000000272",
+    "name": "Thóc lép nhiều quả"
+  },
+  {
+    "id": "P000000273",
+    "name": "Thôi chanh lá xôn"
+  },
+  {
+    "id": "P000000274",
+    "name": "Thôi chanh lá xôn"
+  },
+  {
+    "id": "P000000275",
+    "name": "Thôi chanh lá xôn"
+  },
+  {
+    "id": "P000000276",
+    "name": "Thông lá hán"
+  },
+  {
+    "id": "P000000277",
+    "name": "Thông lá hán"
+  },
+  {
+    "id": "P000000278",
+    "name": "Thông lá hán"
+  },
+  {
+    "id": "P000000279",
+    "name": "Thông mộc"
+  },
+  {
+    "id": "P000000280",
+    "name": "Thông mộc"
+  },
+  {
+    "id": "P000000281",
+    "name": "Thông mộc"
+  },
+  {
+    "id": "P000000282",
+    "name": "Thông tre lá dài"
+  },
+  {
+    "id": "P000000283",
+    "name": "Thông tre lá dài"
+  },
+  {
+    "id": "P000000284",
+    "name": "Thung"
+  },
+  {
+    "id": "P000000285",
+    "name": "Thung"
+  },
+  {
+    "id": "P000000286",
+    "name": "Trang nước"
+  },
+  {
+    "id": "P000000287",
+    "name": "Trang nước"
+  },
+  {
+    "id": "P000000288",
+    "name": "Trang nước"
+  },
+  {
+    "id": "P000000289",
+    "name": "Trà my Nhật"
+  },
+  {
+    "id": "P000000290",
+    "name": "Trà my Nhật"
+  },
+  {
+    "id": "P000000291",
+    "name": "Trà my Nhật"
+  },
+  {
+    "id": "P000000292",
+    "name": "Tô hạp"
+  },
+  {
+    "id": "P000000293",
+    "name": "Tô hạp"
+  },
+  {
+    "id": "P000000294",
+    "name": "Tô hạp"
+  },
+  {
+    "id": "P000000295",
+    "name": "Thủy tiên"
+  },
+  {
+    "id": "P000000296",
+    "name": "Thủy tiên"
+  },
+  {
+    "id": "P000000297",
+    "name": "Thủy tiên"
+  },
+  {
+    "id": "P000000298",
+    "name": "Tổ điểu"
+  },
+  {
+    "id": "P000000299",
+    "name": "Tổ điểu"
+  },
+  {
+    "id": "P000000300",
+    "name": "Tổ điểu"
+  },
+  {
+    "id": "P000000301",
+    "name": "Sâm cầm"
+  },
+  {
+    "id": "P000000302",
+    "name": "Sâm cầm"
+  },
+  {
+    "id": "P000000303",
+    "name": "Ong bò vẽ"
+  },
+  {
+    "id": "P000000304",
+    "name": "Ong bò vẽ"
+  },
+  {
+    "id": "P000000305",
+    "name": "Mối"
+  },
+  {
+    "id": "P000000306",
+    "name": "Mối"
+  },
+  {
+    "id": "P000000307",
+    "name": "Mối"
+  },
+  {
+    "id": "P000000308",
+    "name": "Hến"
+  },
+  {
+    "id": "P000000309",
+    "name": "Hến"
+  },
+  {
+    "id": "P000000310",
+    "name": "Ếch đồng"
+  },
+  {
+    "id": "P000000311",
+    "name": "Ếch đồng"
+  },
+  {
+    "id": "P000000312",
+    "name": "Dế dũi"
+  },
+  {
+    "id": "P000000313",
+    "name": "Dế dũi"
+  },
+  {
+    "id": "P000000314",
+    "name": "Cua biển"
+  },
+  {
+    "id": "P000000315",
+    "name": "Cua biển"
+  },
+  {
+    "id": "P000000316",
+    "name": "Cầy hương"
+  },
+  {
+    "id": "P000000317",
+    "name": "Xà cừ"
+  },
+  {
+    "id": "P000000318",
+    "name": "Xà cừ"
+  },
+  {
+    "id": "P000000319",
+    "name": "Xà cừ"
+  },
+  {
+    "id": "P000000320",
+    "name": "Vọt đồi"
+  },
+  {
+    "id": "P000000321",
+    "name": "Vọt đồi"
+  },
+  {
+    "id": "P000000322",
+    "name": "Vọt đồi"
+  },
+  {
+    "id": "P000000323",
+    "name": "Vân chi"
+  },
+  {
+    "id": "P000000324",
+    "name": "Vân chi"
+  },
+  {
+    "id": "P000000325",
+    "name": "Vân chi"
+  },
+  {
+    "id": "P000000326",
+    "name": "Sò huyết"
+  },
+  {
+    "id": "P000000327",
+    "name": "Sò huyết"
+  },
+  {
+    "id": "P000000328",
+    "name": "Vắp"
+  },
+  {
+    "id": "P000000329",
+    "name": "Vắp"
+  },
+  {
+    "id": "P000000330",
+    "name": "Vắp"
+  },
+  {
+    "id": "P000000331",
+    "name": "Vảy ốc"
+  },
+  {
+    "id": "P000000332",
+    "name": "Vảy ốc"
+  },
+  {
+    "id": "P000000333",
+    "name": "Vảy ốc"
+  },
+  {
+    "id": "P000000334",
+    "name": "Vảy ốc"
+  },
+  {
+    "id": "P000000335",
+    "name": "Tước sàng"
+  },
+  {
+    "id": "P000000336",
+    "name": "Tước sàng"
+  },
+  {
+    "id": "P000000337",
+    "name": "Tục tùy tử"
+  },
+  {
+    "id": "P000000338",
+    "name": "Tục tùy tử"
+  },
+  {
+    "id": "P000000339",
+    "name": "Tục tùy tử"
+  },
+  {
+    "id": "P000000340",
+    "name": "Tra vồ"
+  },
+  {
+    "id": "P000000341",
+    "name": "Tra vồ"
+  },
+  {
+    "id": "P000000342",
+    "name": "Tra vồ"
+  },
+  {
+    "id": "P000000343",
+    "name": "Trư linh"
+  },
+  {
+    "id": "P000000344",
+    "name": "Trư linh"
+  },
+  {
+    "id": "P000000345",
+    "name": "Trạng nguyên"
+  },
+  {
+    "id": "P000000346",
+    "name": "Trạng nguyên"
+  },
+  {
+    "id": "P000000347",
+    "name": "Trạng nguyên"
+  },
+  {
+    "id": "P000000348",
+    "name": "Quan âm núi"
+  },
+  {
+    "id": "P000000349",
+    "name": "Quan âm núi"
+  },
+  {
+    "id": "P000000350",
+    "name": "Hồ điệp hoa"
+  },
+  {
+    "id": "P000000351",
+    "name": "Hồ điệp hoa"
+  },
+  {
+    "id": "P000000352",
+    "name": "Hồ điệp hoa"
+  },
+  {
+    "id": "P000000353",
+    "name": "Sói rừng"
+  },
+  {
+    "id": "P000000354",
+    "name": "Sói rừng"
+  },
+  {
+    "id": "P000000355",
+    "name": "Sói rừng"
+  },
+  {
+    "id": "P000000356",
+    "name": "Hoa mặt trời (Dã quỳ)"
+  },
+  {
+    "id": "P000000357",
+    "name": "Hoa mặt trời (Dã quỳ)"
+  },
+  {
+    "id": "P000000358",
+    "name": "Hoa mặt trời (Dã quỳ)"
+  },
+  {
+    "id": "P000000359",
+    "name": "Hoa mặt trời (Dã quỳ)"
+  },
+  {
+    "id": "P000000360",
+    "name": "Hoa mặt trời (Dã quỳ)"
+  },
+  {
+    "id": "P000000361",
+    "name": "Hoa huệ"
+  },
+  {
+    "id": "P000000362",
+    "name": "Hoa huệ"
+  },
+  {
+    "id": "P000000363",
+    "name": "Hoa giẻ Nam Bộ"
+  },
+  {
+    "id": "P000000364",
+    "name": "Hoa giẻ Nam Bộ"
+  },
+  {
+    "id": "P000000365",
+    "name": "Hoa giẻ Nam Bộ"
+  },
+  {
+    "id": "P000000366",
+    "name": "Hoa chùm ớt"
+  },
+  {
+    "id": "P000000367",
+    "name": "Hoa chùm ớt"
+  },
+  {
+    "id": "P000000368",
+    "name": "Hoa chùm ớt"
+  },
+  {
+    "id": "P000000369",
+    "name": "Hoa chông"
+  },
+  {
+    "id": "P000000370",
+    "name": "Hoa chông"
+  },
+  {
+    "id": "P000000371",
+    "name": "Hoa chông"
+  },
+  {
+    "id": "P000000372",
+    "name": "Hành tăm"
+  },
+  {
+    "id": "P000000373",
+    "name": "Hành tăm"
+  },
+  {
+    "id": "P000000374",
+    "name": "Hành tăm"
+  },
+  {
+    "id": "P000000375",
+    "name": "Đậu biếc"
+  },
+  {
+    "id": "P000000376",
+    "name": "Đậu biếc"
+  },
+  {
+    "id": "P000000377",
+    "name": "Đậu biếc"
+  },
+  {
+    "id": "P000000378",
+    "name": "Cóc kèn leo"
+  },
+  {
+    "id": "P000000379",
+    "name": "Cóc kèn leo"
+  },
+  {
+    "id": "P000000380",
+    "name": "Xuyến chi"
+  },
+  {
+    "id": "P000000381",
+    "name": "Xuyến chi"
+  },
+  {
+    "id": "P000000382",
+    "name": "Xuyến chi"
+  },
+  {
+    "id": "P000000383",
+    "name": "Cỏ mục túc"
+  },
+  {
+    "id": "P000000384",
+    "name": "Cỏ mục túc"
+  },
+  {
+    "id": "P000000385",
+    "name": "Cỏ mục túc"
+  },
+  {
+    "id": "P000000386",
+    "name": "Cỏ mẹ"
+  },
+  {
+    "id": "P000000387",
+    "name": "Cỏ mẹ"
+  },
+  {
+    "id": "P000000388",
+    "name": "Cỏ mẹ"
+  },
+  {
+    "id": "P000000389",
+    "name": "Gừng dại tía"
+  },
+  {
+    "id": "P000000390",
+    "name": "Đỏm lông"
+  },
+  {
+    "id": "P000000391",
+    "name": "Đỏm lông"
+  },
+  {
+    "id": "P000000392",
+    "name": "Điền thanh gai"
+  },
+  {
+    "id": "P000000393",
+    "name": "Điền thanh gai"
+  },
+  {
+    "id": "P000000394",
+    "name": "Điền thanh gai"
+  },
+  {
+    "id": "P000000395",
+    "name": "Đề"
+  },
+  {
+    "id": "P000000396",
+    "name": "Đề"
+  },
+  {
+    "id": "P000000397",
+    "name": "Đậu vuông"
+  },
+  {
+    "id": "P000000398",
+    "name": "Đậu vuông"
+  },
+  {
+    "id": "P000000399",
+    "name": "Đậu vuông"
+  },
+  {
+    "id": "P000000400",
+    "name": "Đậu tương dại"
+  },
+  {
+    "id": "P000000401",
+    "name": "Đậu tương dại"
+  },
+  {
+    "id": "P000000402",
+    "name": "Đậu tương dại"
+  },
+  {
+    "id": "P000000403",
+    "name": "Đậu răng ngựa"
+  },
+  {
+    "id": "P000000404",
+    "name": "Đậu răng ngựa"
+  },
+  {
+    "id": "P000000405",
+    "name": "Đậu răng ngựa"
+  },
+  {
+    "id": "P000000406",
+    "name": "Mảnh cộng"
+  },
+  {
+    "id": "P000000407",
+    "name": "Mảnh cộng"
+  },
+  {
+    "id": "P000000408",
+    "name": "Mảnh cộng"
+  },
+  {
+    "id": "P000000409",
+    "name": "Mã biên thảo"
+  },
+  {
+    "id": "P000000410",
+    "name": "Mã biên thảo"
+  },
+  {
+    "id": "P000000411",
+    "name": "Mã biên thảo"
+  },
+  {
+    "id": "P000000412",
+    "name": "Lưỡi cọp đỏ"
+  },
+  {
+    "id": "P000000413",
+    "name": "Lưỡi cọp đỏ"
+  },
+  {
+    "id": "P000000414",
+    "name": "Lưỡi cọp đỏ"
+  },
+  {
+    "id": "P000000415",
+    "name": "Lục lặc lá dài"
+  },
+  {
+    "id": "P000000416",
+    "name": "Lục lặc lá dài"
+  },
+  {
+    "id": "P000000417",
+    "name": "Lục lặc lá dài"
+  },
+  {
+    "id": "P000000418",
+    "name": "Lúa mạch"
+  },
+  {
+    "id": "P000000419",
+    "name": "Lúa mạch"
+  },
+  {
+    "id": "P000000420",
+    "name": "Lúa mạch"
+  },
+  {
+    "id": "P000000421",
+    "name": "Lúa mì"
+  },
+  {
+    "id": "P000000422",
+    "name": "Lúa mì"
+  },
+  {
+    "id": "P000000423",
+    "name": "Lúa mì"
+  },
+  {
+    "id": "P000000424",
+    "name": "Lồng đèn"
+  },
+  {
+    "id": "P000000425",
+    "name": "Lồng đèn"
+  },
+  {
+    "id": "P000000426",
+    "name": "Lồng đèn"
+  },
+  {
+    "id": "P000000427",
+    "name": "Lồng đèn"
+  },
+  {
+    "id": "P000000428",
+    "name": "Liễu bách"
+  },
+  {
+    "id": "P000000429",
+    "name": "Liễu bách"
+  },
+  {
+    "id": "P000000430",
+    "name": "Liễu bách"
+  },
+  {
+    "id": "P000000431",
+    "name": "Lát hoa"
+  },
+  {
+    "id": "P000000432",
+    "name": "Lát hoa"
+  },
+  {
+    "id": "P000000433",
+    "name": "Lát hoa"
+  },
+  {
+    "id": "P000000434",
+    "name": "Lan kiếm"
+  },
+  {
+    "id": "P000000435",
+    "name": "Lan kiếm"
+  },
+  {
+    "id": "P000000436",
+    "name": "Lan hoa sâm"
+  },
+  {
+    "id": "P000000437",
+    "name": "Lan hoa sâm"
+  },
+  {
+    "id": "P000000438",
+    "name": "Lan hoa sâm"
+  },
+  {
+    "id": "P000000439",
+    "name": "Lá diễn tàu"
+  },
+  {
+    "id": "P000000440",
+    "name": "Lá diễn tàu"
+  },
+  {
+    "id": "P000000441",
+    "name": "Lá diễn tàu"
+  },
+  {
+    "id": "P000000442",
+    "name": "Lá diễn tàu"
+  },
+  {
+    "id": "P000000443",
+    "name": "Lá diễn tàu"
+  },
+  {
+    "id": "P000000444",
+    "name": "Lá diễn tàu"
+  },
+  {
+    "id": "P000000445",
+    "name": "Khôi nước"
+  },
+  {
+    "id": "P000000446",
+    "name": "Khôi nước"
+  },
+  {
+    "id": "P000000447",
+    "name": "Khoai trời"
+  },
+  {
+    "id": "P000000448",
+    "name": "Khoai trời"
+  },
+  {
+    "id": "P000000449",
+    "name": "Khoai trời"
+  },
+  {
+    "id": "P000000450",
+    "name": "Khoai trời"
+  },
+  {
+    "id": "P000000451",
+    "name": "Kháo lông"
+  },
+  {
+    "id": "P000000452",
+    "name": "Kháo lông"
+  },
+  {
+    "id": "P000000453",
+    "name": "Kháo lông"
+  },
+  {
+    "id": "P000000454",
+    "name": "Kê"
+  },
+  {
+    "id": "P000000455",
+    "name": "Kê"
+  },
+  {
+    "id": "P000000456",
+    "name": "Kê"
+  },
+  {
+    "id": "P000000457",
+    "name": "Húng dũi"
+  },
+  {
+    "id": "P000000458",
+    "name": "Húng dũi"
+  },
+  {
+    "id": "P000000459",
+    "name": "Húng dũi"
+  },
+  {
+    "id": "P000000460",
+    "name": "Hồ lô ba"
+  },
+  {
+    "id": "P000000461",
+    "name": "Hồ lô ba"
+  },
+  {
+    "id": "P000000462",
+    "name": "Hồ lô ba"
+  },
+  {
+    "id": "P000000463",
+    "name": "Đậu mỏ"
+  },
+  {
+    "id": "P000000464",
+    "name": "Đậu mỏ"
+  },
+  {
+    "id": "P000000465",
+    "name": "Đậu mỏ"
+  },
+  {
+    "id": "P000000466",
+    "name": "Đăng tiêu"
+  },
+  {
+    "id": "P000000467",
+    "name": "Đăng tiêu"
+  },
+  {
+    "id": "P000000468",
+    "name": "Đăng tiêu"
+  },
+  {
+    "id": "P000000469",
+    "name": "Kê náp"
+  },
+  {
+    "id": "P000000470",
+    "name": "Kê náp"
+  },
+  {
+    "id": "P000000471",
+    "name": "Kê náp"
+  },
+  {
+    "id": "P000000472",
+    "name": "Dứa thơm"
+  },
+  {
+    "id": "P000000473",
+    "name": "Dứa thơm"
+  },
+  {
+    "id": "P000000474",
+    "name": "Dứa thơm"
+  },
+  {
+    "id": "P000000475",
+    "name": "Dưa leo dại"
+  },
+  {
+    "id": "P000000476",
+    "name": "Dưa leo dại"
+  },
+  {
+    "id": "P000000477",
+    "name": "Dưa leo dại"
+  },
+  {
+    "id": "P000000478",
+    "name": "Dưa leo dại"
+  },
+  {
+    "id": "P000000479",
+    "name": "Dưa leo dại"
+  },
+  {
+    "id": "P000000480",
+    "name": "Cây cứt ngựa"
+  },
+  {
+    "id": "P000000481",
+    "name": "Cây cứt ngựa"
+  },
+  {
+    "id": "P000000482",
+    "name": "Cây cóc"
+  },
+  {
+    "id": "P000000483",
+    "name": "Cây cóc"
+  },
+  {
+    "id": "P000000484",
+    "name": "Cây cóc"
+  },
+  {
+    "id": "P000000485",
+    "name": "Cây cóc"
+  },
+  {
+    "id": "P000000486",
+    "name": "Cây bún"
+  },
+  {
+    "id": "P000000487",
+    "name": "Cây bún"
+  },
+  {
+    "id": "P000000488",
+    "name": "Cần thăng"
+  },
+  {
+    "id": "P000000489",
+    "name": "Cần thăng"
+  },
+  {
+    "id": "P000000490",
+    "name": "Cần thăng"
+  },
+  {
+    "id": "P000000491",
+    "name": "Cần hôi"
+  },
+  {
+    "id": "P000000492",
+    "name": "Cần hôi"
+  },
+  {
+    "id": "P000000493",
+    "name": "Cáp điền"
+  },
+  {
+    "id": "P000000494",
+    "name": "Cáp điền"
+  },
+  {
+    "id": "P000000495",
+    "name": "Cáp điền"
+  },
+  {
+    "id": "P000000496",
+    "name": "Cang mai"
+  },
+  {
+    "id": "P000000497",
+    "name": "Cang mai"
+  },
+  {
+    "id": "P000000498",
+    "name": "Cang mai"
+  },
+  {
+    "id": "P000000499",
+    "name": "Cải sen"
+  },
+  {
+    "id": "P000000500",
+    "name": "Cải sen"
+  },
+  {
+    "id": "P000000501",
+    "name": "Dẻ trùng khánh"
+  },
+  {
+    "id": "P000000502",
+    "name": "Dẻ trùng khánh"
+  },
+  {
+    "id": "P000000503",
+    "name": "Dẻ trùng khánh"
+  },
+  {
+    "id": "P000000504",
+    "name": "Dưa bở"
+  },
+  {
+    "id": "P000000505",
+    "name": "Dưa bở"
+  },
+  {
+    "id": "P000000506",
+    "name": "Dung lá táo"
+  },
+  {
+    "id": "P000000507",
+    "name": "Dung lá táo"
+  },
+  {
+    "id": "P000000508",
+    "name": "Dung lá táo"
+  },
+  {
+    "id": "P000000509",
+    "name": "Dong riềng (khoai riềng)"
+  },
+  {
+    "id": "P000000510",
+    "name": "Dong riềng (khoai riềng)"
+  },
+  {
+    "id": "P000000511",
+    "name": "Dong riềng (khoai riềng)"
+  },
+  {
+    "id": "P000000512",
+    "name": "Dó tròn"
+  },
+  {
+    "id": "P000000513",
+    "name": "Dó tròn"
+  },
+  {
+    "id": "P000000514",
+    "name": "Dó tròn"
+  },
+  {
+    "id": "P000000515",
+    "name": "Dó hẹp"
+  },
+  {
+    "id": "P000000516",
+    "name": "Dó hẹp"
+  },
+  {
+    "id": "P000000517",
+    "name": "Dó hẹp"
+  },
+  {
+    "id": "P000000518",
+    "name": "Mao lương"
+  },
+  {
+    "id": "P000000519",
+    "name": "Mao lương"
+  },
+  {
+    "id": "P000000520",
+    "name": "Mao lương"
+  },
+  {
+    "id": "P000000521",
+    "name": "Mao tử tàu"
+  },
+  {
+    "id": "P000000522",
+    "name": "Mao tử tàu"
+  },
+  {
+    "id": "P000000523",
+    "name": "Một dược"
+  },
+  {
+    "id": "P000000524",
+    "name": "Một dược"
+  },
+  {
+    "id": "P000000525",
+    "name": "Mộc nhĩ trắng"
+  },
+  {
+    "id": "P000000526",
+    "name": "Mộc nhĩ trắng"
+  },
+  {
+    "id": "P000000527",
+    "name": "Mùng quân"
+  },
+  {
+    "id": "P000000528",
+    "name": "Mùng quân"
+  },
+  {
+    "id": "P000000529",
+    "name": "Mùng quân"
+  },
+  {
+    "id": "P000000530",
+    "name": "Dền đuôi chồn"
+  },
+  {
+    "id": "P000000531",
+    "name": "Dền đuôi chồn"
+  },
+  {
+    "id": "P000000532",
+    "name": "Dây thần thông"
+  },
+  {
+    "id": "P000000533",
+    "name": "Dây thần thông"
+  },
+  {
+    "id": "P000000534",
+    "name": "Dây thần thông"
+  },
+  {
+    "id": "P000000535",
+    "name": "Dây lim"
+  },
+  {
+    "id": "P000000536",
+    "name": "Dây lim"
+  },
+  {
+    "id": "P000000537",
+    "name": "Dây lim"
+  },
+  {
+    "id": "P000000538",
+    "name": "Dâm xanh"
+  },
+  {
+    "id": "P000000539",
+    "name": "Dâm xanh"
+  },
+  {
+    "id": "P000000540",
+    "name": "Dâm xanh"
+  },
+  {
+    "id": "P000000541",
+    "name": "Độc biển đậu"
+  },
+  {
+    "id": "P000000542",
+    "name": "Đơn buốt lá xẻ"
+  },
+  {
+    "id": "P000000543",
+    "name": "Đơn buốt lá xẻ"
+  },
+  {
+    "id": "P000000544",
+    "name": "Đơn nem"
+  },
+  {
+    "id": "P000000545",
+    "name": "Đơn nem"
+  },
+  {
+    "id": "P000000546",
+    "name": "Đơn nem"
+  },
+  {
+    "id": "P000000547",
+    "name": "Đuôi chồn quả đen"
+  },
+  {
+    "id": "P000000548",
+    "name": "Đuôi chồn quả đen"
+  },
+  {
+    "id": "P000000549",
+    "name": "Đu đủ rừng"
+  },
+  {
+    "id": "P000000550",
+    "name": "Đu đủ rừng"
+  },
+  {
+    "id": "P000000551",
+    "name": "Gai kim"
+  },
+  {
+    "id": "P000000552",
+    "name": "Gai kim"
+  },
+  {
+    "id": "P000000553",
+    "name": "Gáo tròn"
+  },
+  {
+    "id": "P000000554",
+    "name": "Gáo tròn"
+  },
+  {
+    "id": "P000000555",
+    "name": "Gáo tròn"
+  },
+  {
+    "id": "P000000556",
+    "name": "Guột găng"
+  },
+  {
+    "id": "P000000557",
+    "name": "Guột găng"
+  },
+  {
+    "id": "P000000558",
+    "name": "Guột găng"
+  },
+  {
+    "id": "P000000559",
+    "name": "Dạ hương"
+  },
+  {
+    "id": "P000000560",
+    "name": "Dạ hương"
+  },
+  {
+    "id": "P000000561",
+    "name": "Dạ hương"
+  },
+  {
+    "id": "P000000562",
+    "name": "Dạ hợp"
+  },
+  {
+    "id": "P000000563",
+    "name": "Dạ hợp"
+  },
+  {
+    "id": "P000000564",
+    "name": "Dạ hợp"
+  },
+  {
+    "id": "P000000565",
+    "name": "Dây ông lão"
+  },
+  {
+    "id": "P000000566",
+    "name": "Dây ông lão"
+  },
+  {
+    "id": "P000000567",
+    "name": "Dây ông lão"
+  },
+  {
+    "id": "P000000568",
+    "name": "Dây ông lão"
+  },
+  {
+    "id": "P000000569",
+    "name": "Cườm rụng"
+  },
+  {
+    "id": "P000000570",
+    "name": "Cườm rụng"
+  },
+  {
+    "id": "P000000571",
+    "name": "Cúc sao"
+  },
+  {
+    "id": "P000000572",
+    "name": "Cúc sao"
+  },
+  {
+    "id": "P000000573",
+    "name": "Cúc lục lăng"
+  },
+  {
+    "id": "P000000574",
+    "name": "Cúc lục lăng"
+  },
+  {
+    "id": "P000000575",
+    "name": "Cúc lục lăng"
+  },
+  {
+    "id": "P000000576",
+    "name": "Cúc lục lăng"
+  },
+  {
+    "id": "P000000577",
+    "name": "Củ từ"
+  },
+  {
+    "id": "P000000578",
+    "name": "Củ từ"
+  },
+  {
+    "id": "P000000579",
+    "name": "Cơm cháy tròn"
+  },
+  {
+    "id": "P000000580",
+    "name": "Cơm cháy tròn"
+  },
+  {
+    "id": "P000000581",
+    "name": "Cơm cháy tròn"
+  },
+  {
+    "id": "P000000582",
+    "name": "Củ trâu"
+  },
+  {
+    "id": "P000000583",
+    "name": "Củ trâu"
+  },
+  {
+    "id": "P000000584",
+    "name": "Củ dền"
+  },
+  {
+    "id": "P000000585",
+    "name": "Củ dền"
+  },
+  {
+    "id": "P000000586",
+    "name": "Củ dền"
+  },
+  {
+    "id": "P000000587",
+    "name": "Cọ xẻ"
+  },
+  {
+    "id": "P000000588",
+    "name": "Cọ xẻ"
+  },
+  {
+    "id": "P000000589",
+    "name": "Cọ xẻ"
+  },
+  {
+    "id": "P000000590",
+    "name": "Cỏ thạch sùng"
+  },
+  {
+    "id": "P000000591",
+    "name": "Cỏ thạch sùng"
+  },
+  {
+    "id": "P000000592",
+    "name": "Cỏ thạch sùng"
+  },
+  {
+    "id": "P000000593",
+    "name": "Cỏ mắt gà"
+  },
+  {
+    "id": "P000000594",
+    "name": "Cỏ mắt gà"
+  },
+  {
+    "id": "P000000595",
+    "name": "Cỏ mắt gà"
+  },
+  {
+    "id": "P000000596",
+    "name": "Cỏ đuôi chồn"
+  },
+  {
+    "id": "P000000597",
+    "name": "Cỏ đuôi chồn"
+  },
+  {
+    "id": "P000000598",
+    "name": "Cỏ đậu hai lá"
+  },
+  {
+    "id": "P000000599",
+    "name": "Cỏ đậu hai lá"
+  },
+  {
+    "id": "P000000600",
+    "name": "Cỏ đậu hai lá"
+  },
+  {
+    "id": "P000000601",
+    "name": "Cỏ chét ba"
+  },
+  {
+    "id": "P000000602",
+    "name": "Cỏ chét ba"
+  },
+  {
+    "id": "P000000603",
+    "name": "Chút chít nhăn"
+  },
+  {
+    "id": "P000000604",
+    "name": "Chút chít nhăn"
+  },
+  {
+    "id": "P000000605",
+    "name": "Chút chít nhăn"
+  },
+  {
+    "id": "P000000606",
+    "name": "Chuỗi tiền"
+  },
+  {
+    "id": "P000000607",
+    "name": "Chuỗi tiền"
+  },
+  {
+    "id": "P000000608",
+    "name": "Chuối hoa"
+  },
+  {
+    "id": "P000000609",
+    "name": "Chuối hoa"
+  },
+  {
+    "id": "P000000610",
+    "name": "Chôm chôm"
+  },
+  {
+    "id": "P000000611",
+    "name": "Chôm chôm"
+  },
+  {
+    "id": "P000000612",
+    "name": "Chôm chôm"
+  },
+  {
+    "id": "P000000613",
+    "name": "Chôm chôm"
+  },
+  {
+    "id": "P000000614",
+    "name": "Chổi đực dại"
+  },
+  {
+    "id": "P000000615",
+    "name": "Chổi đực dại"
+  },
+  {
+    "id": "P000000616",
+    "name": "Chổi đực dại"
+  },
+  {
+    "id": "P000000617",
+    "name": "Chóc máu"
+  },
+  {
+    "id": "P000000618",
+    "name": "Chóc máu"
+  },
+  {
+    "id": "P000000619",
+    "name": "Chóc máu"
+  },
+  {
+    "id": "P000000620",
+    "name": "Chè đắng rừng"
+  },
+  {
+    "id": "P000000621",
+    "name": "Chân danh tàu"
+  },
+  {
+    "id": "P000000622",
+    "name": "Chân danh tàu"
+  },
+  {
+    "id": "P000000623",
+    "name": "Chân danh tàu"
+  },
+  {
+    "id": "P000000624",
+    "name": "Cây cứt quạ"
+  },
+  {
+    "id": "P000000625",
+    "name": "Cây cứt quạ"
+  },
+  {
+    "id": "P000000626",
+    "name": "Cây cứt quạ"
+  },
+  {
+    "id": "P000000627",
+    "name": "Cây đầu heo"
+  },
+  {
+    "id": "P000000628",
+    "name": "Cây đầu heo"
+  },
+  {
+    "id": "P000000629",
+    "name": "Cây giá"
+  },
+  {
+    "id": "P000000630",
+    "name": "Cây giá"
+  },
+  {
+    "id": "P000000631",
+    "name": "Cây giá"
+  },
+  {
+    "id": "P000000632",
+    "name": "Cây lá lụa"
+  },
+  {
+    "id": "P000000633",
+    "name": "Cây lá lụa"
+  },
+  {
+    "id": "P000000634",
+    "name": "Cây lá lụa"
+  },
+  {
+    "id": "P000000635",
+    "name": "Cây sanh"
+  },
+  {
+    "id": "P000000636",
+    "name": "Cây sanh"
+  },
+  {
+    "id": "P000000637",
+    "name": "Cây tổ ong"
+  },
+  {
+    "id": "P000000638",
+    "name": "Cây tổ ong"
+  },
+  {
+    "id": "P000000639",
+    "name": "Cây tổ ong"
+  },
+  {
+    "id": "P000000640",
+    "name": "Cây trứng cá"
+  },
+  {
+    "id": "P000000641",
+    "name": "Cây trứng cá"
+  },
+  {
+    "id": "P000000642",
+    "name": "Cây trứng cá"
+  },
+  {
+    "id": "P000000643",
+    "name": "Cây trứng cá"
+  },
+  {
+    "id": "P000000644",
+    "name": "Cây tu hú"
+  },
+  {
+    "id": "P000000645",
+    "name": "Cây tu hú"
+  },
+  {
+    "id": "P000000646",
+    "name": "Cây vọt"
+  },
+  {
+    "id": "P000000647",
+    "name": "Cây vọt"
+  },
+  {
+    "id": "P000000648",
+    "name": "Cây vọt"
+  },
+  {
+    "id": "P000000649",
+    "name": "Chà là đồi"
+  },
+  {
+    "id": "P000000650",
+    "name": "Chà là đồi"
+  },
+  {
+    "id": "P000000651",
+    "name": "Chà là đồi"
+  },
+  {
+    "id": "P000000652",
+    "name": "Chạc ba"
+  },
+  {
+    "id": "P000000653",
+    "name": "Chạc ba"
+  },
+  {
+    "id": "P000000654",
+    "name": "Chàm bụi"
+  },
+  {
+    "id": "P000000655",
+    "name": "Chàm bụi"
+  },
+  {
+    "id": "P000000656",
+    "name": "Chàm bụi"
+  },
+  {
+    "id": "P000000657",
+    "name": "Chàm quả nhọn"
+  },
+  {
+    "id": "P000000658",
+    "name": "Chàm quả nhọn"
+  },
+  {
+    "id": "P000000659",
+    "name": "Cải ma lùn"
+  },
+  {
+    "id": "P000000660",
+    "name": "Cải ma lùn"
+  },
+  {
+    "id": "P000000661",
+    "name": "Cải ma lùn"
+  },
+  {
+    "id": "P000000662",
+    "name": "Cách vàng"
+  },
+  {
+    "id": "P000000663",
+    "name": "Cách vàng"
+  },
+  {
+    "id": "P000000664",
+    "name": "Cà phấn tàu"
+  },
+  {
+    "id": "P000000665",
+    "name": "Cà phấn tàu"
+  },
+  {
+    "id": "P000000666",
+    "name": "Cà phấn tàu"
+  },
+  {
+    "id": "P000000667",
+    "name": "Bung lai"
+  },
+  {
+    "id": "P000000668",
+    "name": "Bung lai"
+  },
+  {
+    "id": "P000000669",
+    "name": "Bung lai"
+  },
+  {
+    "id": "P000000670",
+    "name": "Bún thiêu"
+  },
+  {
+    "id": "P000000671",
+    "name": "Bún thiêu"
+  },
+  {
+    "id": "P000000672",
+    "name": "Bún thiêu"
+  },
+  {
+    "id": "P000000673",
+    "name": "Bòi ngòi tai"
+  },
+  {
+    "id": "P000000674",
+    "name": "Bòi ngòi tai"
+  },
+  {
+    "id": "P000000675",
+    "name": "Bòi ngòi tai"
+  },
+  {
+    "id": "P000000676",
+    "name": "Bòi ngòi tai"
+  },
+  {
+    "id": "P000000677",
+    "name": "Bìm bìm dại"
+  },
+  {
+    "id": "P000000678",
+    "name": "Bìm bìm dại"
+  },
+  {
+    "id": "P000000679",
+    "name": "Bìm bìm dại"
+  },
+  {
+    "id": "P000000680",
+    "name": "Bèo hoa dâu"
+  },
+  {
+    "id": "P000000681",
+    "name": "Bèo hoa dâu"
+  },
+  {
+    "id": "P000000682",
+    "name": "Bằng lăng nước"
+  },
+  {
+    "id": "P000000683",
+    "name": "Bằng lăng nước"
+  },
+  {
+    "id": "P000000684",
+    "name": "Bằng lăng nước"
+  },
+  {
+    "id": "P000000685",
+    "name": "Bàng hôi"
+  },
+  {
+    "id": "P000000686",
+    "name": "Bàng hôi"
+  },
+  {
+    "id": "P000000687",
+    "name": "Bàng hôi"
+  },
+  {
+    "id": "P000000688",
+    "name": "Bàng hôi"
+  },
+  {
+    "id": "P000000689",
+    "name": "Bản lan căn"
+  },
+  {
+    "id": "P000000690",
+    "name": "Bản lan căn"
+  },
+  {
+    "id": "P000000691",
+    "name": "Bản lan căn"
+  },
+  {
+    "id": "P000000692",
+    "name": "Ban tròn"
+  },
+  {
+    "id": "P000000693",
+    "name": "Ban tròn"
+  },
+  {
+    "id": "P000000694",
+    "name": "Ban tròn"
+  },
+  {
+    "id": "P000000695",
+    "name": "Bại tượng"
+  },
+  {
+    "id": "P000000696",
+    "name": "Bại tượng"
+  },
+  {
+    "id": "P000000697",
+    "name": "Bại tượng"
+  },
+  {
+    "id": "P000000698",
+    "name": "Bạch đầu ông"
+  },
+  {
+    "id": "P000000699",
+    "name": "Bạch đầu ông"
+  },
+  {
+    "id": "P000000700",
+    "name": "Bạch cổ đinh"
+  },
+  {
+    "id": "P000000701",
+    "name": "Bạch cổ đinh"
+  },
+  {
+    "id": "P000000702",
+    "name": "Bạch cổ đinh"
+  },
+  {
+    "id": "P000000703",
+    "name": "An điền cỏ"
+  },
+  {
+    "id": "P000000704",
+    "name": "An điền cỏ"
+  },
+  {
+    "id": "P000000705",
+    "name": "An điền cỏ"
+  },
+  {
+    "id": "P000000706",
+    "name": "Dứa cơm nếp"
+  },
+  {
+    "id": "P000000707",
+    "name": "Dướng nhỏ"
+  },
+  {
+    "id": "P000000708",
+    "name": "Dướng nhỏ"
+  },
+  {
+    "id": "P000000709",
+    "name": "Đa lá tròn"
+  },
+  {
+    "id": "P000000710",
+    "name": "Đa lá tròn"
+  },
+  {
+    "id": "P000000711",
+    "name": "Đại bi lá lượn"
+  },
+  {
+    "id": "P000000712",
+    "name": "Đại bi lá lượn"
+  },
+  {
+    "id": "P000000713",
+    "name": "Đại bi lá lượn"
+  },
+  {
+    "id": "P000000714",
+    "name": "Bạc thau hoa đầu"
+  },
+  {
+    "id": "P000000715",
+    "name": "Bạc thau hoa đầu"
+  },
+  {
+    "id": "P000000716",
+    "name": "Âm địa quyết"
+  },
+  {
+    "id": "P000000717",
+    "name": "Âm địa quyết"
+  },
+  {
+    "id": "P000000718",
+    "name": "Bóng nước"
+  },
+  {
+    "id": "P000000719",
+    "name": "Bóng nước"
+  },
+  {
+    "id": "P000000720",
+    "name": "Băng phiến"
+  },
+  {
+    "id": "P000000721",
+    "name": "Bạch vi"
+  },
+  {
+    "id": "P000000722",
+    "name": "Bạch vi"
+  },
+  {
+    "id": "P000000723",
+    "name": "Bạch tiền bì"
+  },
+  {
+    "id": "P000000724",
+    "name": "Bạch tiền bì"
+  },
+  {
+    "id": "P000000725",
+    "name": "Bạch tiền bì"
+  },
+  {
+    "id": "P000000726",
+    "name": "Bạch giới tử"
+  },
+  {
+    "id": "P000000727",
+    "name": "Bạch giới tử"
+  },
+  {
+    "id": "P000000728",
+    "name": "Bạch giới tử"
+  },
+  {
+    "id": "P000000729",
+    "name": "Áp nhĩ cần"
+  },
+  {
+    "id": "P000000730",
+    "name": "Áp cước bản thảo"
+  },
+  {
+    "id": "P000000731",
+    "name": "Ao diệp cảnh tiên"
+  },
+  {
+    "id": "P000000732",
+    "name": "Ao diệp cảnh tiên"
+  },
+  {
+    "id": "P000000733",
+    "name": "Ao diệp cảnh tiên"
+  },
+  {
+    "id": "P000000734",
+    "name": "Ao diệp cảnh tiên"
+  },
+  {
+    "id": "P000000735",
+    "name": "Âm hành thảo"
+  },
+  {
+    "id": "P000000736",
+    "name": "Âm hành thảo"
+  },
+  {
+    "id": "P000000737",
+    "name": "Âm hành thảo"
+  },
+  {
+    "id": "P000000738",
+    "name": "Âm hành thảo"
+  },
+  {
+    "id": "P000000739",
+    "name": "Âm hành thảo"
+  },
+  {
+    "id": "P000000740",
+    "name": "A ngùy"
+  },
+  {
+    "id": "P000000741",
+    "name": "A ngùy"
+  },
+  {
+    "id": "P000000742",
+    "name": "Cáp giới"
+  },
+  {
+    "id": "P000000743",
+    "name": "Xạ đen Hòa Bình"
+  },
+  {
+    "id": "P000000744",
+    "name": "Xạ đen Hòa Bình"
+  },
+  {
+    "id": "P000000745",
+    "name": "Xạ đen Hòa Bình"
+  },
+  {
+    "id": "P000000746",
+    "name": "Cây Chùm ngây"
+  },
+  {
+    "id": "P000000747",
+    "name": "Cây Chùm ngây"
+  },
+  {
+    "id": "P000000748",
+    "name": "Cây Chùm ngây"
+  },
+  {
+    "id": "P000000749",
+    "name": "Lông cu li"
+  },
+  {
+    "id": "P000000750",
+    "name": "Lông cu li"
+  },
+  {
+    "id": "P000000751",
+    "name": "Lông cu li"
+  },
+  {
+    "id": "P000000752",
+    "name": "Cây sâm cau đỏ"
+  },
+  {
+    "id": "P000000753",
+    "name": "Cây sâm cau đỏ"
+  },
+  {
+    "id": "P000000754",
+    "name": "Cây sâm cau đỏ"
+  },
+  {
+    "id": "P000000755",
+    "name": "Bí xanh"
+  },
+  {
+    "id": "P000000756",
+    "name": "Bí xanh"
+  },
+  {
+    "id": "P000000757",
+    "name": "Bí xanh"
+  },
+  {
+    "id": "P000000758",
+    "name": "Lục bình"
+  },
+  {
+    "id": "P000000759",
+    "name": "Lục bình"
+  },
+  {
+    "id": "P000000760",
+    "name": "Bèo tai tượng"
+  },
+  {
+    "id": "P000000761",
+    "name": "Bèo tai tượng"
+  },
+  {
+    "id": "P000000762",
+    "name": "Giàng sơn"
+  },
+  {
+    "id": "P000000763",
+    "name": "Giàng sơn"
+  },
+  {
+    "id": "P000000764",
+    "name": "Giàng sơn"
+  },
+  {
+    "id": "P000000765",
+    "name": "Tảo hưu"
+  },
+  {
+    "id": "P000000766",
+    "name": "Tảo hưu"
+  },
+  {
+    "id": "P000000767",
+    "name": "Tảo hưu"
+  },
+  {
+    "id": "P000000768",
+    "name": "Thôi chanh"
+  },
+  {
+    "id": "P000000769",
+    "name": "Thôi chanh"
+  },
+  {
+    "id": "P000000770",
+    "name": "Thôi chanh"
+  },
+  {
+    "id": "P000000771",
+    "name": "Hoàng cầm râu"
+  },
+  {
+    "id": "P000000772",
+    "name": "Hoàng cầm râu"
+  },
+  {
+    "id": "P000000773",
+    "name": "Hoàng cầm râu"
+  },
+  {
+    "id": "P000000774",
+    "name": "Lô biên"
+  },
+  {
+    "id": "P000000775",
+    "name": "Lô biên"
+  },
+  {
+    "id": "P000000776",
+    "name": "Lô biên"
+  },
+  {
+    "id": "P000000777",
+    "name": "Nọc sởi"
+  },
+  {
+    "id": "P000000778",
+    "name": "Nọc sởi"
+  },
+  {
+    "id": "P000000779",
+    "name": "Nọc sởi"
+  },
+  {
+    "id": "P000000780",
+    "name": "Ngân hạnh"
+  },
+  {
+    "id": "P000000781",
+    "name": "Ngân hạnh"
+  },
+  {
+    "id": "P000000782",
+    "name": "Ngân hạnh"
+  },
+  {
+    "id": "P000000783",
+    "name": "Kiến cò"
+  },
+  {
+    "id": "P000000784",
+    "name": "Kiến cò"
+  },
+  {
+    "id": "P000000785",
+    "name": "Ngải tiên"
+  },
+  {
+    "id": "P000000786",
+    "name": "Ngải tiên"
+  },
+  {
+    "id": "P000000787",
+    "name": "Ngải tiên"
+  },
+  {
+    "id": "P000000788",
+    "name": "Liên cập thảo"
+  },
+  {
+    "id": "P000000789",
+    "name": "Liên cập thảo"
+  },
+  {
+    "id": "P000000790",
+    "name": "Liên cập thảo"
+  },
+  {
+    "id": "P000000791",
+    "name": "Cây Mần tưới"
+  },
+  {
+    "id": "P000000792",
+    "name": "Cây Mần tưới"
+  },
+  {
+    "id": "P000000793",
+    "name": "Cây Mần tưới"
+  },
+  {
+    "id": "P000000794",
+    "name": "Ván đậu"
+  },
+  {
+    "id": "P000000795",
+    "name": "Ván đậu"
+  },
+  {
+    "id": "P000000796",
+    "name": "Ván đậu"
+  },
+  {
+    "id": "P000000797",
+    "name": "Bàn tay ma"
+  },
+  {
+    "id": "P000000798",
+    "name": "Bàn tay ma"
+  },
+  {
+    "id": "P000000799",
+    "name": "Bàn tay ma"
+  },
+  {
+    "id": "P000000800",
+    "name": "Địa nhĩ thảo"
+  },
+  {
+    "id": "P000000801",
+    "name": "Địa nhĩ thảo"
+  },
+  {
+    "id": "P000000802",
+    "name": "Bạch yến"
+  },
+  {
+    "id": "P000000803",
+    "name": "Tỏi rừng"
+  },
+  {
+    "id": "P000000804",
+    "name": "Tỏi rừng"
+  },
+  {
+    "id": "P000000805",
+    "name": "Tỏi tây"
+  },
+  {
+    "id": "P000000806",
+    "name": "Tỏi tây"
+  },
+  {
+    "id": "P000000807",
+    "name": "Việt quất"
+  },
+  {
+    "id": "P000000808",
+    "name": "Việt quất"
+  },
+  {
+    "id": "P000000809",
+    "name": "Việt quất"
+  },
+  {
+    "id": "P000000810",
+    "name": "Việt quất"
+  },
+  {
+    "id": "P000000811",
+    "name": "Ké hoa đào"
+  },
+  {
+    "id": "P000000812",
+    "name": "Ké hoa đào"
+  },
+  {
+    "id": "P000000813",
+    "name": "Ké hoa đào"
+  },
+  {
+    "id": "P000000814",
+    "name": "A lệ chi"
+  },
+  {
+    "id": "P000000815",
+    "name": "A lệ chi"
+  },
+  {
+    "id": "P000000816",
+    "name": "Bưởi bung"
+  },
+  {
+    "id": "P000000817",
+    "name": "Bưởi bung"
+  },
+  {
+    "id": "P000000818",
+    "name": "Bưởi bung"
+  },
+  {
+    "id": "P000000819",
+    "name": "Đậu bắp"
+  },
+  {
+    "id": "P000000820",
+    "name": "Đậu bắp"
+  },
+  {
+    "id": "P000000821",
+    "name": "Đậu bắp"
+  },
+  {
+    "id": "P000000822",
+    "name": "Đậu bắp"
+  },
+  {
+    "id": "P000000823",
+    "name": "Tiền hồ nam"
+  },
+  {
+    "id": "P000000824",
+    "name": "Tiền hồ nam"
+  },
+  {
+    "id": "P000000825",
+    "name": "Tiền hồ nam"
+  },
+  {
+    "id": "P000000826",
+    "name": "Dây thìa canh"
+  },
+  {
+    "id": "P000000827",
+    "name": "Dây thìa canh"
+  },
+  {
+    "id": "P000000828",
+    "name": "Dây thìa canh"
+  },
+  {
+    "id": "P000000829",
+    "name": "Con rươi"
+  },
+  {
+    "id": "P000000830",
+    "name": "Liên"
+  },
+  {
+    "id": "P000000831",
+    "name": "Liên"
+  },
+  {
+    "id": "P000000832",
+    "name": "Liên"
+  },
+  {
+    "id": "P000000833",
+    "name": "Liên"
+  },
+  {
+    "id": "P000000834",
+    "name": "Liên"
+  },
+  {
+    "id": "P000000835",
+    "name": "Đơn mặt trời (Đơn lá đỏ)"
+  },
+  {
+    "id": "P000000836",
+    "name": "Đơn mặt trời (Đơn lá đỏ)"
+  },
+  {
+    "id": "P000000837",
+    "name": "Đơn mặt trời (Đơn lá đỏ)"
+  },
+  {
+    "id": "P000000838",
+    "name": "Đơn mặt trời (Đơn lá đỏ)"
+  },
+  {
+    "id": "P000000839",
+    "name": "Cây bụp giấm"
+  },
+  {
+    "id": "P000000840",
+    "name": "Cây bụp giấm"
+  },
+  {
+    "id": "P000000841",
+    "name": "Cây bụp giấm"
+  },
+  {
+    "id": "P000000842",
+    "name": "Nữ lang"
+  },
+  {
+    "id": "P000000843",
+    "name": "Nữ lang"
+  },
+  {
+    "id": "P000000844",
+    "name": "Nữ lang"
+  },
+  {
+    "id": "P000000845",
+    "name": "Nữ lang"
+  },
+  {
+    "id": "P000000846",
+    "name": "Nần nghệ"
+  },
+  {
+    "id": "P000000847",
+    "name": "Nần nghệ"
+  },
+  {
+    "id": "P000000848",
+    "name": "Nần nghệ"
+  },
+  {
+    "id": "P000000849",
+    "name": "Nần nghệ"
+  },
+  {
+    "id": "P000000850",
+    "name": "Cây Sương sâm"
+  },
+  {
+    "id": "P000000851",
+    "name": "Cây Sương sâm"
+  },
+  {
+    "id": "P000000852",
+    "name": "Cây Sương sâm"
+  },
+  {
+    "id": "P000000853",
+    "name": "Xạ đen"
+  },
+  {
+    "id": "P000000854",
+    "name": "Xạ đen"
+  },
+  {
+    "id": "P000000855",
+    "name": "Xạ đen"
+  },
+  {
+    "id": "P000000856",
+    "name": "Sim rừng"
+  },
+  {
+    "id": "P000000857",
+    "name": "Thục quỳ"
+  },
+  {
+    "id": "P000000858",
+    "name": "Sau sau"
+  },
+  {
+    "id": "P000000859",
+    "name": "Sau sau"
+  },
+  {
+    "id": "P000000860",
+    "name": "Sau sau"
+  },
+  {
+    "id": "P000000861",
+    "name": "Trai sông"
+  },
+  {
+    "id": "P000000862",
+    "name": "Trai sông"
+  },
+  {
+    "id": "P000000863",
+    "name": "Thạch hộc"
+  },
+  {
+    "id": "P000000864",
+    "name": "Thạch hộc"
+  },
+  {
+    "id": "P000000865",
+    "name": "Thạch hộc"
+  },
+  {
+    "id": "P000000866",
+    "name": "Thạch hộc"
+  },
+  {
+    "id": "P000000867",
+    "name": "Tai tượng xanh"
+  },
+  {
+    "id": "P000000868",
+    "name": "Tai tượng xanh"
+  },
+  {
+    "id": "P000000869",
+    "name": "Tai tượng xanh"
+  },
+  {
+    "id": "P000000870",
+    "name": "Tai tượng xanh"
+  },
+  {
+    "id": "P000000871",
+    "name": "Ruối leo"
+  },
+  {
+    "id": "P000000872",
+    "name": "Ruối leo"
+  },
+  {
+    "id": "P000000873",
+    "name": "Ruối leo"
+  },
+  {
+    "id": "P000000874",
+    "name": "Thồm lồm gai"
+  },
+  {
+    "id": "P000000875",
+    "name": "Thồm lồm gai"
+  },
+  {
+    "id": "P000000876",
+    "name": "Thồm lồm gai"
+  },
+  {
+    "id": "P000000877",
+    "name": "Thồm lồm gai"
+  },
+  {
+    "id": "P000000878",
+    "name": "Tam lăng"
+  },
+  {
+    "id": "P000000879",
+    "name": "Tam lăng"
+  },
+  {
+    "id": "P000000880",
+    "name": "Tam lăng"
+  },
+  {
+    "id": "P000000881",
+    "name": "Trám trắng"
+  },
+  {
+    "id": "P000000882",
+    "name": "Trám trắng"
+  },
+  {
+    "id": "P000000883",
+    "name": "Trám trắng"
+  },
+  {
+    "id": "P000000884",
+    "name": "Xui"
+  },
+  {
+    "id": "P000000885",
+    "name": "Rùa núi"
+  },
+  {
+    "id": "P000000886",
+    "name": "Ráy leo lá rách"
+  },
+  {
+    "id": "P000000887",
+    "name": "Xoan ấn độ"
+  },
+  {
+    "id": "P000000888",
+    "name": "Xoan ấn độ"
+  },
+  {
+    "id": "P000000889",
+    "name": "Xoan ấn độ"
+  },
+  {
+    "id": "P000000890",
+    "name": "Xoan ấn độ"
+  },
+  {
+    "id": "P000000891",
+    "name": "Ba gạc lá vòng"
+  },
+  {
+    "id": "P000000892",
+    "name": "Ba gạc lá vòng"
+  },
+  {
+    "id": "P000000893",
+    "name": "Ba gạc lá vòng"
+  },
+  {
+    "id": "P000000894",
+    "name": "Ba gạc lá vòng"
+  },
+  {
+    "id": "P000000895",
+    "name": "Ba gạc lá vòng"
+  },
+  {
+    "id": "P000000896",
+    "name": "Ba gạc lá vòng"
+  },
+  {
+    "id": "P000000897",
+    "name": "Sa sâm nam"
+  },
+  {
+    "id": "P000000898",
+    "name": "Sa sâm nam"
+  },
+  {
+    "id": "P000000899",
+    "name": "Sa sâm nam"
+  },
+  {
+    "id": "P000000900",
+    "name": "Sơn dương"
+  },
+  {
+    "id": "P000000901",
+    "name": "Vù hương"
+  },
+  {
+    "id": "P000000902",
+    "name": "Tiểu kế"
+  },
+  {
+    "id": "P000000903",
+    "name": "Tiểu kế"
+  },
+  {
+    "id": "P000000904",
+    "name": "Tiểu kế"
+  },
+  {
+    "id": "P000000905",
+    "name": "Thông đỏ"
+  },
+  {
+    "id": "P000000906",
+    "name": "Thông đỏ"
+  },
+  {
+    "id": "P000000907",
+    "name": "Thông đỏ"
+  },
+  {
+    "id": "P000000908",
+    "name": "Tam tầng"
+  },
+  {
+    "id": "P000000909",
+    "name": "Thạch tầm"
+  },
+  {
+    "id": "P000000910",
+    "name": "Thài lài trắng"
+  },
+  {
+    "id": "P000000911",
+    "name": "Tang ký sinh"
+  },
+  {
+    "id": "P000000912",
+    "name": "Tang ký sinh"
+  },
+  {
+    "id": "P000000913",
+    "name": "Tang ký sinh"
+  },
+  {
+    "id": "P000000914",
+    "name": "Sòi trắng"
+  },
+  {
+    "id": "P000000915",
+    "name": "Sa nhân trắng"
+  },
+  {
+    "id": "P000000916",
+    "name": "Cây rau mùi"
+  },
+  {
+    "id": "P000000917",
+    "name": "Cây rau mùi"
+  },
+  {
+    "id": "P000000918",
+    "name": "Xuyên tâm liên"
+  },
+  {
+    "id": "P000000919",
+    "name": "Xuyên tâm liên"
+  },
+  {
+    "id": "P000000920",
+    "name": "Xuyên tâm liên"
+  },
+  {
+    "id": "P000000921",
+    "name": "Thanh yên"
+  },
+  {
+    "id": "P000000922",
+    "name": "Thanh yên"
+  },
+  {
+    "id": "P000000923",
+    "name": "Thanh yên"
+  },
+  {
+    "id": "P000000924",
+    "name": "Con Cóc"
+  },
+  {
+    "id": "P000000925",
+    "name": "Con Cóc"
+  },
+  {
+    "id": "P000000926",
+    "name": "Con Cóc"
+  },
+  {
+    "id": "P000000927",
+    "name": "Sâm đại hành"
+  },
+  {
+    "id": "P000000928",
+    "name": "Sâm đại hành"
+  },
+  {
+    "id": "P000000929",
+    "name": "Sâm đại hành"
+  },
+  {
+    "id": "P000000930",
+    "name": "Nấm linh chi"
+  },
+  {
+    "id": "P000000931",
+    "name": "Nấm linh chi"
+  },
+  {
+    "id": "P000000932",
+    "name": "Nấm linh chi"
+  },
+  {
+    "id": "P000000933",
+    "name": "Vân mộc hương"
+  },
+  {
+    "id": "P000000934",
+    "name": "Sài hồ nam"
+  },
+  {
+    "id": "P000000935",
+    "name": "Sài hồ nam"
+  },
+  {
+    "id": "P000000936",
+    "name": "Sài hồ nam"
+  },
+  {
+    "id": "P000000937",
+    "name": "Trạch quạch"
+  },
+  {
+    "id": "P000000938",
+    "name": "Vối rừng"
+  },
+  {
+    "id": "P000000939",
+    "name": "Thổ nhân sâm"
+  },
+  {
+    "id": "P000000940",
+    "name": "Thổ nhân sâm"
+  },
+  {
+    "id": "P000000941",
+    "name": "Thổ nhân sâm"
+  },
+  {
+    "id": "P000000942",
+    "name": "Thổ nhân sâm"
+  },
+  {
+    "id": "P000000943",
+    "name": "Sơn đậu"
+  },
+  {
+    "id": "P000000944",
+    "name": "Sơn đậu"
+  },
+  {
+    "id": "P000000945",
+    "name": "Râu hùm"
+  },
+  {
+    "id": "P000000946",
+    "name": "Râu hùm"
+  },
+  {
+    "id": "P000000947",
+    "name": "Râu hùm"
+  },
+  {
+    "id": "P000000948",
+    "name": "Râu hùm"
+  },
+  {
+    "id": "P000000949",
+    "name": "Râu hùm"
+  },
+  {
+    "id": "P000000950",
+    "name": "Anh đào châu phi"
+  },
+  {
+    "id": "P000000951",
+    "name": "Xương rồng ông"
+  },
+  {
+    "id": "P000000952",
+    "name": "Xoan rừng"
+  },
+  {
+    "id": "P000000953",
+    "name": "Sòi tía"
+  },
+  {
+    "id": "P000000954",
+    "name": "Săng lẻ"
+  },
+  {
+    "id": "P000000955",
+    "name": "Săng lẻ"
+  },
+  {
+    "id": "P000000956",
+    "name": "Săng lẻ"
+  },
+  {
+    "id": "P000000957",
+    "name": "Sài đất"
+  },
+  {
+    "id": "P000000958",
+    "name": "Sài đất"
+  },
+  {
+    "id": "P000000959",
+    "name": "Sài đất"
+  },
+  {
+    "id": "P000000960",
+    "name": "Sài đất"
+  },
+  {
+    "id": "P000000961",
+    "name": "Sài đất"
+  },
+  {
+    "id": "P000000962",
+    "name": "Sa sâm bắc"
+  },
+  {
+    "id": "P000000963",
+    "name": "Sa sâm bắc"
+  },
+  {
+    "id": "P000000964",
+    "name": "Rau ngổ"
+  },
+  {
+    "id": "P000000965",
+    "name": "Rau ngổ"
+  },
+  {
+    "id": "P000000966",
+    "name": "Rau ngổ"
+  },
+  {
+    "id": "P000000967",
+    "name": "Rau ngổ"
+  },
+  {
+    "id": "P000000968",
+    "name": "Rau ngổ"
+  },
+  {
+    "id": "P000000969",
+    "name": "Xương rồng bà có gai"
+  },
+  {
+    "id": "P000000970",
+    "name": "Sa nhân tím"
+  },
+  {
+    "id": "P000000971",
+    "name": "Sa nhân tím"
+  },
+  {
+    "id": "P000000972",
+    "name": "Sa nhân tím"
+  },
+  {
+    "id": "P000000973",
+    "name": "Sa nhân tím"
+  },
+  {
+    "id": "P000000974",
+    "name": "Rau xương cá"
+  },
+  {
+    "id": "P000000975",
+    "name": "Rau xương cá"
+  },
+  {
+    "id": "P000000976",
+    "name": "Rau xương cá"
+  },
+  {
+    "id": "P000000977",
+    "name": "Rau xương cá"
+  },
+  {
+    "id": "P000000978",
+    "name": "Rau xương cá"
+  },
+  {
+    "id": "P000000979",
+    "name": "Bồ Bồ"
+  },
+  {
+    "id": "P000000980",
+    "name": "Bồ Bồ"
+  },
+  {
+    "id": "P000000981",
+    "name": "Bồ Bồ"
+  },
+  {
+    "id": "P000000982",
+    "name": "Húng chanh"
+  },
+  {
+    "id": "P000000983",
+    "name": "Húng chanh"
+  },
+  {
+    "id": "P000000984",
+    "name": "Húng chanh"
+  },
+  {
+    "id": "P000000985",
+    "name": "Lêkima"
+  },
+  {
+    "id": "P000000986",
+    "name": "Lêkima"
+  },
+  {
+    "id": "P000000987",
+    "name": "Lêkima"
+  },
+  {
+    "id": "P000000988",
+    "name": "Hoa dài"
+  },
+  {
+    "id": "P000000989",
+    "name": "Hoa dài"
+  },
+  {
+    "id": "P000000990",
+    "name": "Hoa dài"
+  },
+  {
+    "id": "P000000991",
+    "name": "Mít"
+  },
+  {
+    "id": "P000000992",
+    "name": "Mít"
+  },
+  {
+    "id": "P000000993",
+    "name": "Mít"
+  },
+  {
+    "id": "P000000994",
+    "name": "Bọ mắm rừng"
+  },
+  {
+    "id": "P000000995",
+    "name": "Bọ mắm rừng"
+  },
+  {
+    "id": "P000000996",
+    "name": "Ngũ vị tử"
+  },
+  {
+    "id": "P000000997",
+    "name": "Ngũ vị tử"
+  },
+  {
+    "id": "P000000998",
+    "name": "Ngũ vị tử"
+  },
+  {
+    "id": "P000000999",
+    "name": "Khoai riềng"
+  },
+  {
+    "id": "P000001000",
+    "name": "Khoai riềng"
+  },
+  {
+    "id": "P000001001",
+    "name": "Khoai riềng"
+  },
+  {
+    "id": "P000001002",
+    "name": "Ngải hoa đỏ"
+  },
+  {
+    "id": "P000001003",
+    "name": "Ngải hoa đỏ"
+  },
+  {
+    "id": "P000001004",
+    "name": "Ngải hoa đỏ"
+  },
+  {
+    "id": "P000001005",
+    "name": "Ba kích"
+  },
+  {
+    "id": "P000001006",
+    "name": "Ba kích"
+  },
+  {
+    "id": "P000001007",
+    "name": "Ba kích"
+  },
+  {
+    "id": "P000001008",
+    "name": "Ba kích"
+  },
+  {
+    "id": "P000001009",
+    "name": "Kim tiền thảo"
+  },
+  {
+    "id": "P000001010",
+    "name": "Kim tiền thảo"
+  },
+  {
+    "id": "P000001011",
+    "name": "Kim tiền thảo"
+  },
+  {
+    "id": "P000001012",
+    "name": "Bạch đồng nữ"
+  },
+  {
+    "id": "P000001013",
+    "name": "Bạch đồng nữ"
+  },
+  {
+    "id": "P000001014",
+    "name": "Bạch đồng nữ"
+  },
+  {
+    "id": "P000001015",
+    "name": "Rau dớn"
+  },
+  {
+    "id": "P000001016",
+    "name": "Rau dớn"
+  },
+  {
+    "id": "P000001017",
+    "name": "Ba gạc hoa đỏ"
+  },
+  {
+    "id": "P000001018",
+    "name": "Ba gạc hoa đỏ"
+  },
+  {
+    "id": "P000001019",
+    "name": "Ba gạc hoa đỏ"
+  },
+  {
+    "id": "P000001020",
+    "name": "Ba gạc hoa đỏ"
+  },
+  {
+    "id": "P000001021",
+    "name": "Cà Dại Hoa Trắng"
+  },
+  {
+    "id": "P000001022",
+    "name": "Cà Dại Hoa Trắng"
+  },
+  {
+    "id": "P000001023",
+    "name": "Cà Dại Hoa Trắng"
+  },
+  {
+    "id": "P000001024",
+    "name": "Nhục thung dung"
+  },
+  {
+    "id": "P000001025",
+    "name": "Nhục thung dung"
+  },
+  {
+    "id": "P000001026",
+    "name": "Nhục thung dung"
+  },
+  {
+    "id": "P000001027",
+    "name": "Nhục thung dung"
+  },
+  {
+    "id": "P000001028",
+    "name": "Vạn niên thanh"
+  },
+  {
+    "id": "P000001029",
+    "name": "Vạn niên thanh"
+  },
+  {
+    "id": "P000001030",
+    "name": "Vải"
+  },
+  {
+    "id": "P000001031",
+    "name": "Vải"
+  },
+  {
+    "id": "P000001032",
+    "name": "Vải"
+  },
+  {
+    "id": "P000001033",
+    "name": "Vả"
+  },
+  {
+    "id": "P000001034",
+    "name": "Vả"
+  },
+  {
+    "id": "P000001035",
+    "name": "Uy linh tiên"
+  },
+  {
+    "id": "P000001036",
+    "name": "Uy linh tiên"
+  },
+  {
+    "id": "P000001037",
+    "name": "Uy linh tiên"
+  },
+  {
+    "id": "P000001038",
+    "name": "Tỳ giải"
+  },
+  {
+    "id": "P000001039",
+    "name": "Tỳ giải"
+  },
+  {
+    "id": "P000001040",
+    "name": "Tỳ giải"
+  },
+  {
+    "id": "P000001041",
+    "name": "Tử uyển"
+  },
+  {
+    "id": "P000001042",
+    "name": "Tử uyển"
+  },
+  {
+    "id": "P000001043",
+    "name": "Tử uyển"
+  },
+  {
+    "id": "P000001044",
+    "name": "Tùng hương"
+  },
+  {
+    "id": "P000001045",
+    "name": "Tục tùy tử"
+  },
+  {
+    "id": "P000001046",
+    "name": "Tục tùy tử"
+  },
+  {
+    "id": "P000001047",
+    "name": "Tục tùy tử"
+  },
+  {
+    "id": "P000001048",
+    "name": "Tục đoạn"
+  },
+  {
+    "id": "P000001049",
+    "name": "Tục đoạn"
+  },
+  {
+    "id": "P000001050",
+    "name": "Tục đoạn"
+  },
+  {
+    "id": "P000001051",
+    "name": "Trường sinh lá rách"
+  },
+  {
+    "id": "P000001052",
+    "name": "Trường sinh lá rách"
+  },
+  {
+    "id": "P000001053",
+    "name": "Trường sinh lá rách"
+  },
+  {
+    "id": "P000001054",
+    "name": "Cây Trương quân (Trung quân)"
+  },
+  {
+    "id": "P000001055",
+    "name": "Cây Trương quân (Trung quân)"
+  },
+  {
+    "id": "P000001056",
+    "name": "Cây Trương quân (Trung quân)"
+  },
+  {
+    "id": "P000001057",
+    "name": "Cây Trương quân (Trung quân)"
+  },
+  {
+    "id": "P000001058",
+    "name": "Cây Trương quân (Trung quân)"
+  },
+  {
+    "id": "P000001059",
+    "name": "Trứng cuốc"
+  },
+  {
+    "id": "P000001060",
+    "name": "Trứng cuốc"
+  },
+  {
+    "id": "P000001061",
+    "name": "Trứng cuốc"
+  },
+  {
+    "id": "P000001062",
+    "name": "Trúc nhự"
+  },
+  {
+    "id": "P000001063",
+    "name": "Trúc nhự"
+  },
+  {
+    "id": "P000001064",
+    "name": "Trúc nhự"
+  },
+  {
+    "id": "P000001065",
+    "name": "Trúc đào"
+  },
+  {
+    "id": "P000001066",
+    "name": "Trúc đào"
+  },
+  {
+    "id": "P000001067",
+    "name": "Trúc đào"
+  },
+  {
+    "id": "P000001068",
+    "name": "Trúc diệp sâm"
+  },
+  {
+    "id": "P000001069",
+    "name": "Trúc diệp sâm"
+  },
+  {
+    "id": "P000001070",
+    "name": "Trúc diệp sâm"
+  },
+  {
+    "id": "P000001071",
+    "name": "Trọng đũa"
+  },
+  {
+    "id": "P000001072",
+    "name": "Trọng đũa"
+  },
+  {
+    "id": "P000001073",
+    "name": "Trọng đũa"
+  },
+  {
+    "id": "P000001074",
+    "name": "Trinh nữ hoàng cung"
+  },
+  {
+    "id": "P000001075",
+    "name": "Trinh nữ hoàng cung"
+  },
+  {
+    "id": "P000001076",
+    "name": "Trinh nữ hoàng cung"
+  },
+  {
+    "id": "P000001077",
+    "name": "Trinh nữ hoàng cung"
+  },
+  {
+    "id": "P000001078",
+    "name": "Tri mẫu"
+  },
+  {
+    "id": "P000001079",
+    "name": "Tri mẫu"
+  },
+  {
+    "id": "P000001080",
+    "name": "Tri mẫu"
+  },
+  {
+    "id": "P000001081",
+    "name": "Tre"
+  },
+  {
+    "id": "P000001082",
+    "name": "Tre"
+  },
+  {
+    "id": "P000001083",
+    "name": "Tre"
+  },
+  {
+    "id": "P000001084",
+    "name": "Trầu không"
+  },
+  {
+    "id": "P000001085",
+    "name": "Trầu không"
+  },
+  {
+    "id": "P000001086",
+    "name": "Trầu không"
+  },
+  {
+    "id": "P000001087",
+    "name": "Trâu cổ"
+  },
+  {
+    "id": "P000001088",
+    "name": "Trâu cổ"
+  },
+  {
+    "id": "P000001089",
+    "name": "Trâu cổ"
+  },
+  {
+    "id": "P000001090",
+    "name": "Trẩu (Dầu sơn)"
+  },
+  {
+    "id": "P000001091",
+    "name": "Trẩu (Dầu sơn)"
+  },
+  {
+    "id": "P000001092",
+    "name": "Trẩu (Dầu sơn)"
+  },
+  {
+    "id": "P000001093",
+    "name": "Trân châu"
+  },
+  {
+    "id": "P000001094",
+    "name": "Trân châu"
+  },
+  {
+    "id": "P000001095",
+    "name": "Trân châu"
+  },
+  {
+    "id": "P000001096",
+    "name": "Trầm hương"
+  },
+  {
+    "id": "P000001097",
+    "name": "Trầm hương"
+  },
+  {
+    "id": "P000001098",
+    "name": "Trầm hương"
+  },
+  {
+    "id": "P000001099",
+    "name": "Trầm hương"
+  },
+  {
+    "id": "P000001100",
+    "name": "Trăn"
+  },
+  {
+    "id": "P000001101",
+    "name": "Trăn"
+  },
+  {
+    "id": "P000001102",
+    "name": "Trăn"
+  },
+  {
+    "id": "P000001103",
+    "name": "Trắc bách diệp"
+  },
+  {
+    "id": "P000001104",
+    "name": "Trắc bách diệp"
+  },
+  {
+    "id": "P000001105",
+    "name": "Trắc bách diệp"
+  },
+  {
+    "id": "P000001106",
+    "name": "Tràm"
+  },
+  {
+    "id": "P000001107",
+    "name": "Tràm"
+  },
+  {
+    "id": "P000001108",
+    "name": "Tràm"
+  },
+  {
+    "id": "P000001109",
+    "name": "Trái mấm"
+  },
+  {
+    "id": "P000001110",
+    "name": "Trái mấm"
+  },
+  {
+    "id": "P000001111",
+    "name": "Trái mấm"
+  },
+  {
+    "id": "P000001112",
+    "name": "Tô mộc"
+  },
+  {
+    "id": "P000001113",
+    "name": "Tô mộc"
+  },
+  {
+    "id": "P000001114",
+    "name": "Tô mộc"
+  },
+  {
+    "id": "P000001115",
+    "name": "Tô hạp hương"
+  },
+  {
+    "id": "P000001116",
+    "name": "Tô hạp hương"
+  },
+  {
+    "id": "P000001117",
+    "name": "Tô hạp hương"
+  },
+  {
+    "id": "P000001118",
+    "name": "Sơn từ cô"
+  },
+  {
+    "id": "P000001119",
+    "name": "Sơn từ cô"
+  },
+  {
+    "id": "P000001120",
+    "name": "Sơn từ cô"
+  },
+  {
+    "id": "P000001121",
+    "name": "Yến"
+  },
+  {
+    "id": "P000001122",
+    "name": "Yến"
+  },
+  {
+    "id": "P000001123",
+    "name": "Yến"
+  },
+  {
+    "id": "P000001124",
+    "name": "Ý dĩ"
+  },
+  {
+    "id": "P000001125",
+    "name": "Ý dĩ"
+  },
+  {
+    "id": "P000001126",
+    "name": "Ý dĩ"
+  },
+  {
+    "id": "P000001127",
+    "name": "Xương sông"
+  },
+  {
+    "id": "P000001128",
+    "name": "Xương sông"
+  },
+  {
+    "id": "P000001129",
+    "name": "Xương sông"
+  },
+  {
+    "id": "P000001130",
+    "name": "Xương khô"
+  },
+  {
+    "id": "P000001131",
+    "name": "Xương khô"
+  },
+  {
+    "id": "P000001132",
+    "name": "Xương khô"
+  },
+  {
+    "id": "P000001133",
+    "name": "Xương hổ"
+  },
+  {
+    "id": "P000001134",
+    "name": "Xương hổ"
+  },
+  {
+    "id": "P000001135",
+    "name": "Xương hổ"
+  },
+  {
+    "id": "P000001136",
+    "name": "Xuyên sơn giáp"
+  },
+  {
+    "id": "P000001137",
+    "name": "Xuyên sơn giáp"
+  },
+  {
+    "id": "P000001138",
+    "name": "Xuyên sơn giáp"
+  },
+  {
+    "id": "P000001139",
+    "name": "Xuyên khung"
+  },
+  {
+    "id": "P000001140",
+    "name": "Xuyên khung"
+  },
+  {
+    "id": "P000001141",
+    "name": "Xuyên khung"
+  },
+  {
+    "id": "P000001142",
+    "name": "Xuân hoa"
+  },
+  {
+    "id": "P000001143",
+    "name": "Xuân hoa"
+  },
+  {
+    "id": "P000001144",
+    "name": "Xuân hoa"
+  },
+  {
+    "id": "P000001145",
+    "name": "Xoan nhừ"
+  },
+  {
+    "id": "P000001146",
+    "name": "Xoan nhừ"
+  },
+  {
+    "id": "P000001147",
+    "name": "Xoan nhừ"
+  },
+  {
+    "id": "P000001148",
+    "name": "Xoan"
+  },
+  {
+    "id": "P000001149",
+    "name": "Xoan"
+  },
+  {
+    "id": "P000001150",
+    "name": "Xoan"
+  },
+  {
+    "id": "P000001151",
+    "name": "Xoài"
+  },
+  {
+    "id": "P000001152",
+    "name": "Xoài"
+  },
+  {
+    "id": "P000001153",
+    "name": "Xoài"
+  },
+  {
+    "id": "P000001154",
+    "name": "Xích thược"
+  },
+  {
+    "id": "P000001155",
+    "name": "Xích thược"
+  },
+  {
+    "id": "P000001156",
+    "name": "Xích thược"
+  },
+  {
+    "id": "P000001157",
+    "name": "Xấu hổ"
+  },
+  {
+    "id": "P000001158",
+    "name": "Xấu hổ"
+  },
+  {
+    "id": "P000001159",
+    "name": "Xấu hổ"
+  },
+  {
+    "id": "P000001160",
+    "name": "Xà sàng"
+  },
+  {
+    "id": "P000001161",
+    "name": "Xà sàng"
+  },
+  {
+    "id": "P000001162",
+    "name": "Xà sàng"
+  },
+  {
+    "id": "P000001163",
+    "name": "Xạ hương"
+  },
+  {
+    "id": "P000001164",
+    "name": "Xạ hương"
+  },
+  {
+    "id": "P000001165",
+    "name": "Xạ hương"
+  },
+  {
+    "id": "P000001166",
+    "name": "Vương tùng"
+  },
+  {
+    "id": "P000001167",
+    "name": "Vương tùng"
+  },
+  {
+    "id": "P000001168",
+    "name": "Vương tùng"
+  },
+  {
+    "id": "P000001169",
+    "name": "Vừng"
+  },
+  {
+    "id": "P000001170",
+    "name": "Vừng"
+  },
+  {
+    "id": "P000001171",
+    "name": "Vừng"
+  },
+  {
+    "id": "P000001172",
+    "name": "Vuốt hùm"
+  },
+  {
+    "id": "P000001173",
+    "name": "Vuốt hùm"
+  },
+  {
+    "id": "P000001174",
+    "name": "Vuốt hùm"
+  },
+  {
+    "id": "P000001175",
+    "name": "Tỏi đỏ"
+  },
+  {
+    "id": "P000001176",
+    "name": "Tỏi đỏ"
+  },
+  {
+    "id": "P000001177",
+    "name": "Tỏi đỏ"
+  },
+  {
+    "id": "P000001178",
+    "name": "Tóc rối"
+  },
+  {
+    "id": "P000001179",
+    "name": "Tóc rối"
+  },
+  {
+    "id": "P000001180",
+    "name": "Tóc rối"
+  },
+  {
+    "id": "P000001181",
+    "name": "Tỏa dương (Ngọc cẩu)"
+  },
+  {
+    "id": "P000001182",
+    "name": "Tỏa dương (Ngọc cẩu)"
+  },
+  {
+    "id": "P000001183",
+    "name": "Tỏa dương (Ngọc cẩu)"
+  },
+  {
+    "id": "P000001184",
+    "name": "Tiểu hồi"
+  },
+  {
+    "id": "P000001185",
+    "name": "Tiểu hồi"
+  },
+  {
+    "id": "P000001186",
+    "name": "Tiểu hồi"
+  },
+  {
+    "id": "P000001187",
+    "name": "Tiểu hồi"
+  },
+  {
+    "id": "P000001188",
+    "name": "Tiểu hồi"
+  },
+  {
+    "id": "P000001189",
+    "name": "Tiền hồ"
+  },
+  {
+    "id": "P000001190",
+    "name": "Tiền hồ"
+  },
+  {
+    "id": "P000001191",
+    "name": "Tiền hồ"
+  },
+  {
+    "id": "P000001192",
+    "name": "Tía tô"
+  },
+  {
+    "id": "P000001193",
+    "name": "Tía tô"
+  },
+  {
+    "id": "P000001194",
+    "name": "Tía tô"
+  },
+  {
+    "id": "P000001195",
+    "name": "Thương truật"
+  },
+  {
+    "id": "P000001196",
+    "name": "Thương truật"
+  },
+  {
+    "id": "P000001197",
+    "name": "Thương truật"
+  },
+  {
+    "id": "P000001198",
+    "name": "Thường sơn"
+  },
+  {
+    "id": "P000001199",
+    "name": "Thường sơn"
+  },
+  {
+    "id": "P000001200",
+    "name": "Thường sơn"
+  },
+  {
+    "id": "P000001201",
+    "name": "Thường sơn"
+  },
+  {
+    "id": "P000001202",
+    "name": "Thương lục"
+  },
+  {
+    "id": "P000001203",
+    "name": "Thương lục"
+  },
+  {
+    "id": "P000001204",
+    "name": "Thương lục"
+  },
+  {
+    "id": "P000001205",
+    "name": "Thương lục"
+  },
+  {
+    "id": "P000001206",
+    "name": "Thuyền thuế"
+  },
+  {
+    "id": "P000001207",
+    "name": "Thuyền thuế"
+  },
+  {
+    "id": "P000001208",
+    "name": "Thuyền thuế"
+  },
+  {
+    "id": "P000001209",
+    "name": "Cây vú bò"
+  },
+  {
+    "id": "P000001210",
+    "name": "Vông vang"
+  },
+  {
+    "id": "P000001211",
+    "name": "Vông vang"
+  },
+  {
+    "id": "P000001212",
+    "name": "Vông vang"
+  },
+  {
+    "id": "P000001213",
+    "name": "Vông nem"
+  },
+  {
+    "id": "P000001214",
+    "name": "Vông nem"
+  },
+  {
+    "id": "P000001215",
+    "name": "Vông nem"
+  },
+  {
+    "id": "P000001216",
+    "name": "Vọng giang nam"
+  },
+  {
+    "id": "P000001217",
+    "name": "Vọng giang nam"
+  },
+  {
+    "id": "P000001218",
+    "name": "Vọng giang nam"
+  },
+  {
+    "id": "P000001219",
+    "name": "Vọng cách"
+  },
+  {
+    "id": "P000001220",
+    "name": "Vọng cách"
+  },
+  {
+    "id": "P000001221",
+    "name": "Vọng cách"
+  },
+  {
+    "id": "P000001222",
+    "name": "Cây vòi voi"
+  },
+  {
+    "id": "P000001223",
+    "name": "Cây vòi voi"
+  },
+  {
+    "id": "P000001224",
+    "name": "Cây vòi voi"
+  },
+  {
+    "id": "P000001225",
+    "name": "Vỏ lựu"
+  },
+  {
+    "id": "P000001226",
+    "name": "Vỏ lựu"
+  },
+  {
+    "id": "P000001227",
+    "name": "Vỏ lựu"
+  },
+  {
+    "id": "P000001228",
+    "name": "Viễn chí"
+  },
+  {
+    "id": "P000001229",
+    "name": "Viễn chí"
+  },
+  {
+    "id": "P000001230",
+    "name": "Viễn chí"
+  },
+  {
+    "id": "P000001231",
+    "name": "Vàng đắng"
+  },
+  {
+    "id": "P000001232",
+    "name": "Vàng đắng"
+  },
+  {
+    "id": "P000001233",
+    "name": "Vàng đắng"
+  },
+  {
+    "id": "P000001234",
+    "name": "Vàng đắng"
+  },
+  {
+    "id": "P000001235",
+    "name": "Vàng đắng"
+  },
+  {
+    "id": "P000001236",
+    "name": "Vạn tuế"
+  },
+  {
+    "id": "P000001237",
+    "name": "Vạn tuế"
+  },
+  {
+    "id": "P000001238",
+    "name": "Vạn tuế"
+  },
+  {
+    "id": "P000001239",
+    "name": "Cây Sổ Trai"
+  },
+  {
+    "id": "P000001240",
+    "name": "Cây Sổ Trai"
+  },
+  {
+    "id": "P000001241",
+    "name": "Cây Sổ Trai"
+  },
+  {
+    "id": "P000001242",
+    "name": "Sóng rắn"
+  },
+  {
+    "id": "P000001243",
+    "name": "Sóng rắn"
+  },
+  {
+    "id": "P000001244",
+    "name": "Sóng rắn"
+  },
+  {
+    "id": "P000001245",
+    "name": "Thổ phục linh"
+  },
+  {
+    "id": "P000001246",
+    "name": "Thổ phục linh"
+  },
+  {
+    "id": "P000001247",
+    "name": "Thổ phục linh"
+  },
+  {
+    "id": "P000001248",
+    "name": "Thổ phục linh"
+  },
+  {
+    "id": "P000001249",
+    "name": "Thòng bong"
+  },
+  {
+    "id": "P000001250",
+    "name": "Thổ hoàng liên"
+  },
+  {
+    "id": "P000001251",
+    "name": "Thổ hoàng liên"
+  },
+  {
+    "id": "P000001252",
+    "name": "Thổ hoàng liên"
+  },
+  {
+    "id": "P000001253",
+    "name": "Thiên trúc hoàng"
+  },
+  {
+    "id": "P000001254",
+    "name": "Thiên trúc hoàng"
+  },
+  {
+    "id": "P000001255",
+    "name": "Thiên trúc hoàng"
+  },
+  {
+    "id": "P000001256",
+    "name": "Thóc lép"
+  },
+  {
+    "id": "P000001257",
+    "name": "Thóc lép"
+  },
+  {
+    "id": "P000001258",
+    "name": "Thóc lép"
+  },
+  {
+    "id": "P000001259",
+    "name": "Thiên tiên tử"
+  },
+  {
+    "id": "P000001260",
+    "name": "Thiên tiên tử"
+  },
+  {
+    "id": "P000001261",
+    "name": "Thiên tiên tử"
+  },
+  {
+    "id": "P000001262",
+    "name": "Thiến thảo"
+  },
+  {
+    "id": "P000001263",
+    "name": "Thiến thảo"
+  },
+  {
+    "id": "P000001264",
+    "name": "Thiến thảo"
+  },
+  {
+    "id": "P000001265",
+    "name": "Thiên niên kiện"
+  },
+  {
+    "id": "P000001266",
+    "name": "Thiên niên kiện"
+  },
+  {
+    "id": "P000001267",
+    "name": "Thiên niên kiện"
+  },
+  {
+    "id": "P000001268",
+    "name": "Thiên môn đông"
+  },
+  {
+    "id": "P000001269",
+    "name": "Thiên môn đông"
+  },
+  {
+    "id": "P000001270",
+    "name": "Thiên môn đông"
+  },
+  {
+    "id": "P000001271",
+    "name": "Thiên môn đông"
+  },
+  {
+    "id": "P000001272",
+    "name": "Thiên lý hương"
+  },
+  {
+    "id": "P000001273",
+    "name": "Thiên lý hương"
+  },
+  {
+    "id": "P000001274",
+    "name": "Thiên lý hương"
+  },
+  {
+    "id": "P000001275",
+    "name": "Cây thiên lý"
+  },
+  {
+    "id": "P000001276",
+    "name": "Cây thiên lý"
+  },
+  {
+    "id": "P000001277",
+    "name": "Cây thiên lý"
+  },
+  {
+    "id": "P000001278",
+    "name": "Thiên đầu thống"
+  },
+  {
+    "id": "P000001279",
+    "name": "Thiên đầu thống"
+  },
+  {
+    "id": "P000001280",
+    "name": "Thiên đầu thống"
+  },
+  {
+    "id": "P000001281",
+    "name": "Thị đế"
+  },
+  {
+    "id": "P000001282",
+    "name": "Thị đế"
+  },
+  {
+    "id": "P000001283",
+    "name": "Thị đế"
+  },
+  {
+    "id": "P000001284",
+    "name": "Thầu dầu"
+  },
+  {
+    "id": "P000001285",
+    "name": "Thầu dầu"
+  },
+  {
+    "id": "P000001286",
+    "name": "Thầu dầu"
+  },
+  {
+    "id": "P000001287",
+    "name": "So đũa"
+  },
+  {
+    "id": "P000001288",
+    "name": "So đũa"
+  },
+  {
+    "id": "P000001289",
+    "name": "So đũa"
+  },
+  {
+    "id": "P000001290",
+    "name": "Sim"
+  },
+  {
+    "id": "P000001291",
+    "name": "Sim"
+  },
+  {
+    "id": "P000001292",
+    "name": "Sim"
+  },
+  {
+    "id": "P000001293",
+    "name": "Sì to"
+  },
+  {
+    "id": "P000001294",
+    "name": "Sì to"
+  },
+  {
+    "id": "P000001295",
+    "name": "Si"
+  },
+  {
+    "id": "P000001296",
+    "name": "Si"
+  },
+  {
+    "id": "P000001297",
+    "name": "Si"
+  },
+  {
+    "id": "P000001298",
+    "name": "Seo gà"
+  },
+  {
+    "id": "P000001299",
+    "name": "Seo gà"
+  },
+  {
+    "id": "P000001300",
+    "name": "Seo gà"
+  },
+  {
+    "id": "P000001301",
+    "name": "Sen cạn"
+  },
+  {
+    "id": "P000001302",
+    "name": "Sen cạn"
+  },
+  {
+    "id": "P000001303",
+    "name": "Sen cạn"
+  },
+  {
+    "id": "P000001304",
+    "name": "Sầu đâu rừng"
+  },
+  {
+    "id": "P000001305",
+    "name": "Sầu đâu rừng"
+  },
+  {
+    "id": "P000001306",
+    "name": "Sầu đâu rừng"
+  },
+  {
+    "id": "P000001307",
+    "name": "Sâu ban miêu"
+  },
+  {
+    "id": "P000001308",
+    "name": "Sâu ban miêu"
+  },
+  {
+    "id": "P000001309",
+    "name": "Sâu ban miêu"
+  },
+  {
+    "id": "P000001310",
+    "name": "Sấu"
+  },
+  {
+    "id": "P000001311",
+    "name": "Sấu"
+  },
+  {
+    "id": "P000001312",
+    "name": "Sấu"
+  },
+  {
+    "id": "P000001313",
+    "name": "Sâm vũ diệp"
+  },
+  {
+    "id": "P000001314",
+    "name": "Sâm vũ diệp"
+  },
+  {
+    "id": "P000001315",
+    "name": "Sâm vũ diệp"
+  },
+  {
+    "id": "P000001316",
+    "name": "Sâm đất"
+  },
+  {
+    "id": "P000001317",
+    "name": "Sâm đất"
+  },
+  {
+    "id": "P000001318",
+    "name": "Sâm đất"
+  },
+  {
+    "id": "P000001319",
+    "name": "Sâm đất"
+  },
+  {
+    "id": "P000001320",
+    "name": "Sâm đất"
+  },
+  {
+    "id": "P000001321",
+    "name": "Thuỷ tiên"
+  },
+  {
+    "id": "P000001322",
+    "name": "Thuỷ tiên"
+  },
+  {
+    "id": "P000001323",
+    "name": "Thuỷ ngân"
+  },
+  {
+    "id": "P000001324",
+    "name": "Thuỷ ngân"
+  },
+  {
+    "id": "P000001325",
+    "name": "Thuỷ ngân"
+  },
+  {
+    "id": "P000001326",
+    "name": "Thuốc phiện"
+  },
+  {
+    "id": "P000001327",
+    "name": "Thuốc phiện"
+  },
+  {
+    "id": "P000001328",
+    "name": "Thuốc phiện"
+  },
+  {
+    "id": "P000001329",
+    "name": "Thuốc Lá"
+  },
+  {
+    "id": "P000001330",
+    "name": "Thuốc Lá"
+  },
+  {
+    "id": "P000001331",
+    "name": "Thuốc Lá"
+  },
+  {
+    "id": "P000001332",
+    "name": "Thuốc giấu"
+  },
+  {
+    "id": "P000001333",
+    "name": "Thuốc giấu"
+  },
+  {
+    "id": "P000001334",
+    "name": "Thuốc giấu"
+  },
+  {
+    "id": "P000001335",
+    "name": "Thuốc bỏng"
+  },
+  {
+    "id": "P000001336",
+    "name": "Thuốc bỏng"
+  },
+  {
+    "id": "P000001337",
+    "name": "Thuốc bỏng"
+  },
+  {
+    "id": "P000001338",
+    "name": "Thốt nốt"
+  },
+  {
+    "id": "P000001339",
+    "name": "Thốt nốt"
+  },
+  {
+    "id": "P000001340",
+    "name": "Thốt nốt"
+  },
+  {
+    "id": "P000001341",
+    "name": "Thông thiên"
+  },
+  {
+    "id": "P000001342",
+    "name": "Thông thiên"
+  },
+  {
+    "id": "P000001343",
+    "name": "Thông thiên"
+  },
+  {
+    "id": "P000001344",
+    "name": "Thông thảo"
+  },
+  {
+    "id": "P000001345",
+    "name": "Thông thảo"
+  },
+  {
+    "id": "P000001346",
+    "name": "Thông thảo"
+  },
+  {
+    "id": "P000001347",
+    "name": "Thồm lồm"
+  },
+  {
+    "id": "P000001348",
+    "name": "Thồm lồm"
+  },
+  {
+    "id": "P000001349",
+    "name": "Thồm lồm"
+  },
+  {
+    "id": "P000001350",
+    "name": "Cây Thổ Tam Thất"
+  },
+  {
+    "id": "P000001351",
+    "name": "Cây Thổ Tam Thất"
+  },
+  {
+    "id": "P000001352",
+    "name": "Cây Thổ Tam Thất"
+  },
+  {
+    "id": "P000001353",
+    "name": "Thăng ma"
+  },
+  {
+    "id": "P000001354",
+    "name": "Thăng ma"
+  },
+  {
+    "id": "P000001355",
+    "name": "Thăng ma"
+  },
+  {
+    "id": "P000001356",
+    "name": "Thăng dược"
+  },
+  {
+    "id": "P000001357",
+    "name": "Thăng dược"
+  },
+  {
+    "id": "P000001358",
+    "name": "Thằn lằn"
+  },
+  {
+    "id": "P000001359",
+    "name": "Thằn lằn"
+  },
+  {
+    "id": "P000001360",
+    "name": "Thằn lằn"
+  },
+  {
+    "id": "P000001361",
+    "name": "Thằn lằn"
+  },
+  {
+    "id": "P000001362",
+    "name": "Thảo quyết minh"
+  },
+  {
+    "id": "P000001363",
+    "name": "Thảo quyết minh"
+  },
+  {
+    "id": "P000001364",
+    "name": "Thảo quyết minh"
+  },
+  {
+    "id": "P000001365",
+    "name": "Thanh táo"
+  },
+  {
+    "id": "P000001366",
+    "name": "Thanh táo"
+  },
+  {
+    "id": "P000001367",
+    "name": "Thanh táo"
+  },
+  {
+    "id": "P000001368",
+    "name": "Thanh ngâm"
+  },
+  {
+    "id": "P000001369",
+    "name": "Thanh ngâm"
+  },
+  {
+    "id": "P000001370",
+    "name": "Thanh ngâm"
+  },
+  {
+    "id": "P000001371",
+    "name": "Thanh ngâm"
+  },
+  {
+    "id": "P000001372",
+    "name": "Thanh ngâm"
+  },
+  {
+    "id": "P000001373",
+    "name": "Thành ngạnh"
+  },
+  {
+    "id": "P000001374",
+    "name": "Thành ngạnh"
+  },
+  {
+    "id": "P000001375",
+    "name": "Thành ngạnh"
+  },
+  {
+    "id": "P000001376",
+    "name": "Thành ngạnh"
+  },
+  {
+    "id": "P000001377",
+    "name": "Thanh long"
+  },
+  {
+    "id": "P000001378",
+    "name": "Thanh long"
+  },
+  {
+    "id": "P000001379",
+    "name": "Thanh long"
+  },
+  {
+    "id": "P000001380",
+    "name": "Thanh cao hoa vàng"
+  },
+  {
+    "id": "P000001381",
+    "name": "Thanh cao hoa vàng"
+  },
+  {
+    "id": "P000001382",
+    "name": "Thanh cao hoa vàng"
+  },
+  {
+    "id": "P000001383",
+    "name": "Thanh cao"
+  },
+  {
+    "id": "P000001384",
+    "name": "Thanh cao"
+  },
+  {
+    "id": "P000001385",
+    "name": "Thanh cao"
+  },
+  {
+    "id": "P000001386",
+    "name": "Thàn mát"
+  },
+  {
+    "id": "P000001387",
+    "name": "Thàn mát"
+  },
+  {
+    "id": "P000001388",
+    "name": "Thàn mát"
+  },
+  {
+    "id": "P000001389",
+    "name": "Thài lài tía"
+  },
+  {
+    "id": "P000001390",
+    "name": "Thài lài tía"
+  },
+  {
+    "id": "P000001391",
+    "name": "Thài lài tía"
+  },
+  {
+    "id": "P000001392",
+    "name": "Thạch vĩ"
+  },
+  {
+    "id": "P000001393",
+    "name": "Thạch vĩ"
+  },
+  {
+    "id": "P000001394",
+    "name": "Thạch vĩ"
+  },
+  {
+    "id": "P000001395",
+    "name": "Sâm bòng bong"
+  },
+  {
+    "id": "P000001396",
+    "name": "Sâm bòng bong"
+  },
+  {
+    "id": "P000001397",
+    "name": "Sâm bòng bong"
+  },
+  {
+    "id": "P000001398",
+    "name": "Sắn thuyền"
+  },
+  {
+    "id": "P000001399",
+    "name": "Sắn thuyền"
+  },
+  {
+    "id": "P000001400",
+    "name": "Sắn thuyền"
+  },
+  {
+    "id": "P000001401",
+    "name": "Sao đen"
+  },
+  {
+    "id": "P000001402",
+    "name": "Sao đen"
+  },
+  {
+    "id": "P000001403",
+    "name": "Sao đen"
+  },
+  {
+    "id": "P000001404",
+    "name": "Sảng"
+  },
+  {
+    "id": "P000001405",
+    "name": "Sảng"
+  },
+  {
+    "id": "P000001406",
+    "name": "Sảng"
+  },
+  {
+    "id": "P000001407",
+    "name": "Sam"
+  },
+  {
+    "id": "P000001408",
+    "name": "Sam"
+  },
+  {
+    "id": "P000001409",
+    "name": "Sam"
+  },
+  {
+    "id": "P000001410",
+    "name": "Sa mộc"
+  },
+  {
+    "id": "P000001411",
+    "name": "Sa mộc"
+  },
+  {
+    "id": "P000001412",
+    "name": "Sa mộc"
+  },
+  {
+    "id": "P000001413",
+    "name": "Cây sả chanh"
+  },
+  {
+    "id": "P000001414",
+    "name": "Cây sả chanh"
+  },
+  {
+    "id": "P000001415",
+    "name": "Cây sả chanh"
+  },
+  {
+    "id": "P000001416",
+    "name": "Cây sả chanh"
+  },
+  {
+    "id": "P000001417",
+    "name": "Cây sả chanh"
+  },
+  {
+    "id": "P000001418",
+    "name": "Cây ruối"
+  },
+  {
+    "id": "P000001419",
+    "name": "Cây ruối"
+  },
+  {
+    "id": "P000001420",
+    "name": "Cây ruối"
+  },
+  {
+    "id": "P000001421",
+    "name": "Rung rúc"
+  },
+  {
+    "id": "P000001422",
+    "name": "Rung rúc"
+  },
+  {
+    "id": "P000001423",
+    "name": "Rung rúc"
+  },
+  {
+    "id": "P000001424",
+    "name": "Rùm nao"
+  },
+  {
+    "id": "P000001425",
+    "name": "Rùm nao"
+  },
+  {
+    "id": "P000001426",
+    "name": "Rùm nao"
+  },
+  {
+    "id": "P000001427",
+    "name": "Rong mơ"
+  },
+  {
+    "id": "P000001428",
+    "name": "Rong mơ"
+  },
+  {
+    "id": "P000001429",
+    "name": "Rong mơ"
+  },
+  {
+    "id": "P000001430",
+    "name": "Riềng nếp"
+  },
+  {
+    "id": "P000001431",
+    "name": "Riềng nếp"
+  },
+  {
+    "id": "P000001432",
+    "name": "Riềng nếp"
+  },
+  {
+    "id": "P000001433",
+    "name": "Rết"
+  },
+  {
+    "id": "P000001434",
+    "name": "Rết"
+  },
+  {
+    "id": "P000001435",
+    "name": "Rết"
+  },
+  {
+    "id": "P000001436",
+    "name": "Rễ gió"
+  },
+  {
+    "id": "P000001437",
+    "name": "Rễ gió"
+  },
+  {
+    "id": "P000001438",
+    "name": "Rễ gió"
+  },
+  {
+    "id": "P000001439",
+    "name": "Râu ngô"
+  },
+  {
+    "id": "P000001440",
+    "name": "Râu ngô"
+  },
+  {
+    "id": "P000001441",
+    "name": "Râu ngô"
+  },
+  {
+    "id": "P000001442",
+    "name": "Râu mèo"
+  },
+  {
+    "id": "P000001443",
+    "name": "Râu mèo"
+  },
+  {
+    "id": "P000001444",
+    "name": "Râu mèo"
+  },
+  {
+    "id": "P000001445",
+    "name": "Râu mèo"
+  },
+  {
+    "id": "P000001446",
+    "name": "Râu mèo"
+  },
+  {
+    "id": "P000001447",
+    "name": "Thạch tín"
+  },
+  {
+    "id": "P000001448",
+    "name": "Thạch tín"
+  },
+  {
+    "id": "P000001449",
+    "name": "Thạch sùng"
+  },
+  {
+    "id": "P000001450",
+    "name": "Thạch sùng"
+  },
+  {
+    "id": "P000001451",
+    "name": "Thạch sùng"
+  },
+  {
+    "id": "P000001452",
+    "name": "Thạch cao"
+  },
+  {
+    "id": "P000001453",
+    "name": "Thạch cao"
+  },
+  {
+    "id": "P000001454",
+    "name": "Thạch cao"
+  },
+  {
+    "id": "P000001455",
+    "name": "Thạch"
+  },
+  {
+    "id": "P000001456",
+    "name": "Thạch"
+  },
+  {
+    "id": "P000001457",
+    "name": "Tề thái"
+  },
+  {
+    "id": "P000001458",
+    "name": "Tề thái"
+  },
+  {
+    "id": "P000001459",
+    "name": "Tề thái"
+  },
+  {
+    "id": "P000001460",
+    "name": "Tế tân"
+  },
+  {
+    "id": "P000001461",
+    "name": "Tế tân"
+  },
+  {
+    "id": "P000001462",
+    "name": "Tế tân"
+  },
+  {
+    "id": "P000001463",
+    "name": "Tê giác"
+  },
+  {
+    "id": "P000001464",
+    "name": "Tê giác"
+  },
+  {
+    "id": "P000001465",
+    "name": "Tê giác"
+  },
+  {
+    "id": "P000001466",
+    "name": "Cây Tầm Xuân"
+  },
+  {
+    "id": "P000001467",
+    "name": "Cây Tầm Xuân"
+  },
+  {
+    "id": "P000001468",
+    "name": "Cây Tầm Xuân"
+  },
+  {
+    "id": "P000001469",
+    "name": "Cây tầm sét"
+  },
+  {
+    "id": "P000001470",
+    "name": "Cây tầm sét"
+  },
+  {
+    "id": "P000001471",
+    "name": "Cây tầm sét"
+  },
+  {
+    "id": "P000001472",
+    "name": "Tầm phỏng"
+  },
+  {
+    "id": "P000001473",
+    "name": "Tầm phỏng"
+  },
+  {
+    "id": "P000001474",
+    "name": "Tầm phỏng"
+  },
+  {
+    "id": "P000001475",
+    "name": "Tầm gửi gạo"
+  },
+  {
+    "id": "P000001476",
+    "name": "Tầm gửi gạo"
+  },
+  {
+    "id": "P000001477",
+    "name": "Tầm gửi gạo"
+  },
+  {
+    "id": "P000001478",
+    "name": "Tầm gửi gạo"
+  },
+  {
+    "id": "P000001479",
+    "name": "Tầm bóp"
+  },
+  {
+    "id": "P000001480",
+    "name": "Tầm bóp"
+  },
+  {
+    "id": "P000001481",
+    "name": "Tầm bóp"
+  },
+  {
+    "id": "P000001482",
+    "name": "Tắc kè"
+  },
+  {
+    "id": "P000001483",
+    "name": "Tắc kè"
+  },
+  {
+    "id": "P000001484",
+    "name": "Tắc kè"
+  },
+  {
+    "id": "P000001485",
+    "name": "Táo rừng"
+  },
+  {
+    "id": "P000001486",
+    "name": "Táo rừng"
+  },
+  {
+    "id": "P000001487",
+    "name": "Táo rừng"
+  },
+  {
+    "id": "P000001488",
+    "name": "Táo ta"
+  },
+  {
+    "id": "P000001489",
+    "name": "Táo ta"
+  },
+  {
+    "id": "P000001490",
+    "name": "Táo ta"
+  },
+  {
+    "id": "P000001491",
+    "name": "Tam thất nam"
+  },
+  {
+    "id": "P000001492",
+    "name": "Tam thất nam"
+  },
+  {
+    "id": "P000001493",
+    "name": "Tàm sa"
+  },
+  {
+    "id": "P000001494",
+    "name": "Tàm sa"
+  },
+  {
+    "id": "P000001495",
+    "name": "Tàm sa"
+  },
+  {
+    "id": "P000001496",
+    "name": "Tai tượng đỏ"
+  },
+  {
+    "id": "P000001497",
+    "name": "Tai tượng đỏ"
+  },
+  {
+    "id": "P000001498",
+    "name": "Tai tượng đỏ"
+  },
+  {
+    "id": "P000001499",
+    "name": "Cây tai chuột"
+  },
+  {
+    "id": "P000001500",
+    "name": "Cây tai chuột"
+  },
+  {
+    "id": "P000001501",
+    "name": "Cây tai chuột"
+  },
+  {
+    "id": "P000001502",
+    "name": "Cây tai chuột"
+  },
+  {
+    "id": "P000001503",
+    "name": "Cây tai chuột"
+  },
+  {
+    "id": "P000001504",
+    "name": "Sừng dê"
+  },
+  {
+    "id": "P000001505",
+    "name": "Sừng dê"
+  },
+  {
+    "id": "P000001506",
+    "name": "Sừng dê"
+  },
+  {
+    "id": "P000001507",
+    "name": "Sung"
+  },
+  {
+    "id": "P000001508",
+    "name": "Sung"
+  },
+  {
+    "id": "P000001509",
+    "name": "Sung"
+  },
+  {
+    "id": "P000001510",
+    "name": "Sui"
+  },
+  {
+    "id": "P000001511",
+    "name": "Sui"
+  },
+  {
+    "id": "P000001512",
+    "name": "Sui"
+  },
+  {
+    "id": "P000001513",
+    "name": "Sơn tra"
+  },
+  {
+    "id": "P000001514",
+    "name": "Sơn tra"
+  },
+  {
+    "id": "P000001515",
+    "name": "Sơn tra"
+  },
+  {
+    "id": "P000001516",
+    "name": "Sơn tra"
+  },
+  {
+    "id": "P000001517",
+    "name": "Ráy gai"
+  },
+  {
+    "id": "P000001518",
+    "name": "Ráy gai"
+  },
+  {
+    "id": "P000001519",
+    "name": "Ráy gai"
+  },
+  {
+    "id": "P000001520",
+    "name": "Ráy"
+  },
+  {
+    "id": "P000001521",
+    "name": "Ráy"
+  },
+  {
+    "id": "P000001522",
+    "name": "Ráy"
+  },
+  {
+    "id": "P000001523",
+    "name": "Sơn"
+  },
+  {
+    "id": "P000001524",
+    "name": "Sơn"
+  },
+  {
+    "id": "P000001525",
+    "name": "Sơn"
+  },
+  {
+    "id": "P000001526",
+    "name": "Cây Sở (Trà mai)"
+  },
+  {
+    "id": "P000001527",
+    "name": "Cây Sở (Trà mai)"
+  },
+  {
+    "id": "P000001528",
+    "name": "Rau sam"
+  },
+  {
+    "id": "P000001529",
+    "name": "Rau sam"
+  },
+  {
+    "id": "P000001530",
+    "name": "Rau sam"
+  },
+  {
+    "id": "P000001531",
+    "name": "Rau răm"
+  },
+  {
+    "id": "P000001532",
+    "name": "Rau răm"
+  },
+  {
+    "id": "P000001533",
+    "name": "Rau răm"
+  },
+  {
+    "id": "P000001534",
+    "name": "Lưỡi rắn"
+  },
+  {
+    "id": "P000001535",
+    "name": "Lưỡi rắn"
+  },
+  {
+    "id": "P000001536",
+    "name": "Lưỡi rắn"
+  },
+  {
+    "id": "P000001537",
+    "name": "Lưỡi rắn"
+  },
+  {
+    "id": "P000001538",
+    "name": "Lưỡi rắn"
+  },
+  {
+    "id": "P000001539",
+    "name": "Rau ngót"
+  },
+  {
+    "id": "P000001540",
+    "name": "Rau ngót"
+  },
+  {
+    "id": "P000001541",
+    "name": "Rau ngót"
+  },
+  {
+    "id": "P000001542",
+    "name": "Rau muống"
+  },
+  {
+    "id": "P000001543",
+    "name": "Rau muống"
+  },
+  {
+    "id": "P000001544",
+    "name": "Rau muống"
+  },
+  {
+    "id": "P000001545",
+    "name": "Ngải diệp"
+  },
+  {
+    "id": "P000001546",
+    "name": "Ngải diệp"
+  },
+  {
+    "id": "P000001547",
+    "name": "Ngải diệp"
+  },
+  {
+    "id": "P000001548",
+    "name": "Ngải dại"
+  },
+  {
+    "id": "P000001549",
+    "name": "Ngải dại"
+  },
+  {
+    "id": "P000001550",
+    "name": "Ngải dại"
+  },
+  {
+    "id": "P000001551",
+    "name": "Ngải chân vịt"
+  },
+  {
+    "id": "P000001552",
+    "name": "Ngải chân vịt"
+  },
+  {
+    "id": "P000001553",
+    "name": "Ngái"
+  },
+  {
+    "id": "P000001554",
+    "name": "Ngái"
+  },
+  {
+    "id": "P000001555",
+    "name": "Ngái"
+  },
+  {
+    "id": "P000001556",
+    "name": "Rau má nước"
+  },
+  {
+    "id": "P000001557",
+    "name": "Rau má nước"
+  },
+  {
+    "id": "P000001558",
+    "name": "Rau mác"
+  },
+  {
+    "id": "P000001559",
+    "name": "Rau mác"
+  },
+  {
+    "id": "P000001560",
+    "name": "Rau mác"
+  },
+  {
+    "id": "P000001561",
+    "name": "Nấm hương"
+  },
+  {
+    "id": "P000001562",
+    "name": "Nấm hương"
+  },
+  {
+    "id": "P000001563",
+    "name": "Nấm hương"
+  },
+  {
+    "id": "P000001564",
+    "name": "Rau má núi"
+  },
+  {
+    "id": "P000001565",
+    "name": "Rau má núi"
+  },
+  {
+    "id": "P000001566",
+    "name": "Rau má núi"
+  },
+  {
+    "id": "P000001567",
+    "name": "Long cốt"
+  },
+  {
+    "id": "P000001568",
+    "name": "Long cốt"
+  },
+  {
+    "id": "P000001569",
+    "name": "Long cốt"
+  },
+  {
+    "id": "P000001570",
+    "name": "Rau má ngọ"
+  },
+  {
+    "id": "P000001571",
+    "name": "Rau má ngọ"
+  },
+  {
+    "id": "P000001572",
+    "name": "Rau má ngọ"
+  },
+  {
+    "id": "P000001573",
+    "name": "Rau má mỡ"
+  },
+  {
+    "id": "P000001574",
+    "name": "Rau má mỡ"
+  },
+  {
+    "id": "P000001575",
+    "name": "Rau má mỡ"
+  },
+  {
+    "id": "P000001576",
+    "name": "Rau má lông"
+  },
+  {
+    "id": "P000001577",
+    "name": "Rau má lông"
+  },
+  {
+    "id": "P000001578",
+    "name": "Rau má lông"
+  },
+  {
+    "id": "P000001579",
+    "name": "Rau má lá to"
+  },
+  {
+    "id": "P000001580",
+    "name": "Rau má lá to"
+  },
+  {
+    "id": "P000001581",
+    "name": "Rau má lá to"
+  },
+  {
+    "id": "P000001582",
+    "name": "Rau má lá rau muống"
+  },
+  {
+    "id": "P000001583",
+    "name": "Rau má lá rau muống"
+  },
+  {
+    "id": "P000001584",
+    "name": "Rau má lá rau muống"
+  },
+  {
+    "id": "P000001585",
+    "name": "Rau má lá rau muống"
+  },
+  {
+    "id": "P000001586",
+    "name": "Rau má"
+  },
+  {
+    "id": "P000001587",
+    "name": "Rau má"
+  },
+  {
+    "id": "P000001588",
+    "name": "Rau má"
+  },
+  {
+    "id": "P000001589",
+    "name": "Rau khúc nếp"
+  },
+  {
+    "id": "P000001590",
+    "name": "Rau khúc nếp"
+  },
+  {
+    "id": "P000001591",
+    "name": "Rau khúc nếp"
+  },
+  {
+    "id": "P000001592",
+    "name": "Rau đắng đất"
+  },
+  {
+    "id": "P000001593",
+    "name": "Rau đắng đất"
+  },
+  {
+    "id": "P000001594",
+    "name": "Rau đắng đất"
+  },
+  {
+    "id": "P000001595",
+    "name": "Rau đắng đất"
+  },
+  {
+    "id": "P000001596",
+    "name": "Rau đắng biển"
+  },
+  {
+    "id": "P000001597",
+    "name": "Rau đắng biển"
+  },
+  {
+    "id": "P000001598",
+    "name": "Rau đắng biển"
+  },
+  {
+    "id": "P000001599",
+    "name": "Rau đắng"
+  },
+  {
+    "id": "P000001600",
+    "name": "Rau đắng"
+  },
+  {
+    "id": "P000001601",
+    "name": "Rau đắng"
+  },
+  {
+    "id": "P000001602",
+    "name": "Rau Dừa nước"
+  },
+  {
+    "id": "P000001603",
+    "name": "Rau Dừa nước"
+  },
+  {
+    "id": "P000001604",
+    "name": "Rau Dừa nước"
+  },
+  {
+    "id": "P000001605",
+    "name": "Rau diếp"
+  },
+  {
+    "id": "P000001606",
+    "name": "Rau diếp"
+  },
+  {
+    "id": "P000001607",
+    "name": "Rau diếp"
+  },
+  {
+    "id": "P000001608",
+    "name": "Rau dệu"
+  },
+  {
+    "id": "P000001609",
+    "name": "Rau dệu"
+  },
+  {
+    "id": "P000001610",
+    "name": "Rau dệu"
+  },
+  {
+    "id": "P000001611",
+    "name": "Rau dệu"
+  },
+  {
+    "id": "P000001612",
+    "name": "Rau dệu"
+  },
+  {
+    "id": "P000001613",
+    "name": "Rau câu"
+  },
+  {
+    "id": "P000001614",
+    "name": "Rau câu"
+  },
+  {
+    "id": "P000001615",
+    "name": "Rau câu"
+  },
+  {
+    "id": "P000001616",
+    "name": "Rau cần trôi"
+  },
+  {
+    "id": "P000001617",
+    "name": "Rau cần trôi"
+  },
+  {
+    "id": "P000001618",
+    "name": "Rau cần trôi"
+  },
+  {
+    "id": "P000001619",
+    "name": "Rau cần tây"
+  },
+  {
+    "id": "P000001620",
+    "name": "Rau cần tây"
+  },
+  {
+    "id": "P000001621",
+    "name": "Rau cần tây"
+  },
+  {
+    "id": "P000001622",
+    "name": "Rau cần ta"
+  },
+  {
+    "id": "P000001623",
+    "name": "Rau cần ta"
+  },
+  {
+    "id": "P000001624",
+    "name": "Rau cần ta"
+  },
+  {
+    "id": "P000001625",
+    "name": "Rau bợ nước"
+  },
+  {
+    "id": "P000001626",
+    "name": "Rau bợ nước"
+  },
+  {
+    "id": "P000001627",
+    "name": "Rau bợ nước"
+  },
+  {
+    "id": "P000001628",
+    "name": "Rau bợ nước"
+  },
+  {
+    "id": "P000001629",
+    "name": "Rau bợ nước"
+  },
+  {
+    "id": "P000001630",
+    "name": "Nắp ấm"
+  },
+  {
+    "id": "P000001631",
+    "name": "Nắp ấm"
+  },
+  {
+    "id": "P000001632",
+    "name": "Nắp ấm"
+  },
+  {
+    "id": "P000001633",
+    "name": "Nàng nàng"
+  },
+  {
+    "id": "P000001634",
+    "name": "Nàng nàng"
+  },
+  {
+    "id": "P000001635",
+    "name": "Nàng nàng"
+  },
+  {
+    "id": "P000001636",
+    "name": "Ráng trắc"
+  },
+  {
+    "id": "P000001637",
+    "name": "Ráng trắc"
+  },
+  {
+    "id": "P000001638",
+    "name": "Ráng trắc"
+  },
+  {
+    "id": "P000001639",
+    "name": "Ráng bay"
+  },
+  {
+    "id": "P000001640",
+    "name": "Ráng bay"
+  },
+  {
+    "id": "P000001641",
+    "name": "Ráng bay"
+  },
+  {
+    "id": "P000001642",
+    "name": "Rái cá"
+  },
+  {
+    "id": "P000001643",
+    "name": "Rái cá"
+  },
+  {
+    "id": "P000001644",
+    "name": "Rái cá"
+  },
+  {
+    "id": "P000001645",
+    "name": "Náng hoa trắng"
+  },
+  {
+    "id": "P000001646",
+    "name": "Náng hoa trắng"
+  },
+  {
+    "id": "P000001647",
+    "name": "Náng hoa trắng"
+  },
+  {
+    "id": "P000001648",
+    "name": "Na rừng"
+  },
+  {
+    "id": "P000001649",
+    "name": "Na rừng"
+  },
+  {
+    "id": "P000001650",
+    "name": "Na rừng"
+  },
+  {
+    "id": "P000001651",
+    "name": "Na"
+  },
+  {
+    "id": "P000001652",
+    "name": "Na"
+  },
+  {
+    "id": "P000001653",
+    "name": "Na"
+  },
+  {
+    "id": "P000001654",
+    "name": "Mướp tây"
+  },
+  {
+    "id": "P000001655",
+    "name": "Mướp sát"
+  },
+  {
+    "id": "P000001656",
+    "name": "Mướp sát"
+  },
+  {
+    "id": "P000001657",
+    "name": "Mướp sát"
+  },
+  {
+    "id": "P000001658",
+    "name": "Mướp khía"
+  },
+  {
+    "id": "P000001659",
+    "name": "Mướp khía"
+  },
+  {
+    "id": "P000001660",
+    "name": "Mướp khía"
+  },
+  {
+    "id": "P000001661",
+    "name": "Mướp đắng"
+  },
+  {
+    "id": "P000001662",
+    "name": "Mướp đắng"
+  },
+  {
+    "id": "P000001663",
+    "name": "Mướp đắng"
+  },
+  {
+    "id": "P000001664",
+    "name": "Cây mướp"
+  },
+  {
+    "id": "P000001665",
+    "name": "Cây mướp"
+  },
+  {
+    "id": "P000001666",
+    "name": "Cây mướp"
+  },
+  {
+    "id": "P000001667",
+    "name": "Mức hoa trắng"
+  },
+  {
+    "id": "P000001668",
+    "name": "Mức hoa trắng"
+  },
+  {
+    "id": "P000001669",
+    "name": "Muồng truổng"
+  },
+  {
+    "id": "P000001670",
+    "name": "Muồng truổng"
+  },
+  {
+    "id": "P000001671",
+    "name": "Muồng truổng"
+  },
+  {
+    "id": "P000001672",
+    "name": "Muồng truổng"
+  },
+  {
+    "id": "P000001673",
+    "name": "Muồng trâu"
+  },
+  {
+    "id": "P000001674",
+    "name": "Muồng trâu"
+  },
+  {
+    "id": "P000001675",
+    "name": "Muồng trâu"
+  },
+  {
+    "id": "P000001676",
+    "name": "Muồng một lá"
+  },
+  {
+    "id": "P000001677",
+    "name": "Muồng một lá"
+  },
+  {
+    "id": "P000001678",
+    "name": "Muồng một lá"
+  },
+  {
+    "id": "P000001679",
+    "name": "Muồng hôi"
+  },
+  {
+    "id": "P000001680",
+    "name": "Muồng hôi"
+  },
+  {
+    "id": "P000001681",
+    "name": "Muồng hôi"
+  },
+  {
+    "id": "P000001682",
+    "name": "Muống biển"
+  },
+  {
+    "id": "P000001683",
+    "name": "Muống biển"
+  },
+  {
+    "id": "P000001684",
+    "name": "Muống biển"
+  },
+  {
+    "id": "P000001685",
+    "name": "Muối ăn"
+  },
+  {
+    "id": "P000001686",
+    "name": "Muối ăn"
+  },
+  {
+    "id": "P000001687",
+    "name": "Muối ăn"
+  },
+  {
+    "id": "P000001688",
+    "name": "Mùi tây"
+  },
+  {
+    "id": "P000001689",
+    "name": "Mùi tây"
+  },
+  {
+    "id": "P000001690",
+    "name": "Quýt trần bì"
+  },
+  {
+    "id": "P000001691",
+    "name": "Quýt trần bì"
+  },
+  {
+    "id": "P000001692",
+    "name": "Quýt trần bì"
+  },
+  {
+    "id": "P000001693",
+    "name": "Quýt"
+  },
+  {
+    "id": "P000001694",
+    "name": "Quýt"
+  },
+  {
+    "id": "P000001695",
+    "name": "Quýt"
+  },
+  {
+    "id": "P000001696",
+    "name": "Quỳnh"
+  },
+  {
+    "id": "P000001697",
+    "name": "Quỳnh"
+  },
+  {
+    "id": "P000001698",
+    "name": "Quỳnh"
+  },
+  {
+    "id": "P000001699",
+    "name": "Quyển bá"
+  },
+  {
+    "id": "P000001700",
+    "name": "Quyển bá"
+  },
+  {
+    "id": "P000001701",
+    "name": "Quy"
+  },
+  {
+    "id": "P000001702",
+    "name": "Quy"
+  },
+  {
+    "id": "P000001703",
+    "name": "Quy"
+  },
+  {
+    "id": "P000001704",
+    "name": "Quế thanh hóa"
+  },
+  {
+    "id": "P000001705",
+    "name": "Quế thanh hóa"
+  },
+  {
+    "id": "P000001706",
+    "name": "Quế thanh hóa"
+  },
+  {
+    "id": "P000001707",
+    "name": "Quế rừng"
+  },
+  {
+    "id": "P000001708",
+    "name": "Quế rừng"
+  },
+  {
+    "id": "P000001709",
+    "name": "Quế rừng"
+  },
+  {
+    "id": "P000001710",
+    "name": "Quế quan"
+  },
+  {
+    "id": "P000001711",
+    "name": "Quế quan"
+  },
+  {
+    "id": "P000001712",
+    "name": "Quế quan"
+  },
+  {
+    "id": "P000001713",
+    "name": "Quế"
+  },
+  {
+    "id": "P000001714",
+    "name": "Quế"
+  },
+  {
+    "id": "P000001715",
+    "name": "Quế"
+  },
+  {
+    "id": "P000001716",
+    "name": "Quất"
+  },
+  {
+    "id": "P000001717",
+    "name": "Quất"
+  },
+  {
+    "id": "P000001718",
+    "name": "Quất"
+  },
+  {
+    "id": "P000001719",
+    "name": "Quao nước"
+  },
+  {
+    "id": "P000001720",
+    "name": "Quao nước"
+  },
+  {
+    "id": "P000001721",
+    "name": "Quao nước"
+  },
+  {
+    "id": "P000001722",
+    "name": "Quán chúng"
+  },
+  {
+    "id": "P000001723",
+    "name": "Quán chúng"
+  },
+  {
+    "id": "P000001724",
+    "name": "Ớt"
+  },
+  {
+    "id": "P000001725",
+    "name": "Ớt"
+  },
+  {
+    "id": "P000001726",
+    "name": "Ớt"
+  },
+  {
+    "id": "P000001727",
+    "name": "Quả nổ"
+  },
+  {
+    "id": "P000001728",
+    "name": "Quả nổ"
+  },
+  {
+    "id": "P000001729",
+    "name": "Quả nổ"
+  },
+  {
+    "id": "P000001730",
+    "name": "Quả mắc nưa"
+  },
+  {
+    "id": "P000001731",
+    "name": "Quả mắc nưa"
+  },
+  {
+    "id": "P000001732",
+    "name": "Quả mắc nưa"
+  },
+  {
+    "id": "P000001733",
+    "name": "Qua lâu"
+  },
+  {
+    "id": "P000001734",
+    "name": "Qua lâu"
+  },
+  {
+    "id": "P000001735",
+    "name": "Qua lâu"
+  },
+  {
+    "id": "P000001736",
+    "name": "Quạ đen"
+  },
+  {
+    "id": "P000001737",
+    "name": "Quạ đen"
+  },
+  {
+    "id": "P000001738",
+    "name": "Quạ đen"
+  },
+  {
+    "id": "P000001739",
+    "name": "Chiêu liêu nghệ"
+  },
+  {
+    "id": "P000001740",
+    "name": "Chiêu liêu nghệ"
+  },
+  {
+    "id": "P000001741",
+    "name": "Chiêu liêu nghệ"
+  },
+  {
+    "id": "P000001742",
+    "name": "Phượng nhỡn thảo"
+  },
+  {
+    "id": "P000001743",
+    "name": "Phượng nhỡn thảo"
+  },
+  {
+    "id": "P000001744",
+    "name": "Phượng nhỡn thảo"
+  },
+  {
+    "id": "P000001745",
+    "name": "Phục long can"
+  },
+  {
+    "id": "P000001746",
+    "name": "Phục long can"
+  },
+  {
+    "id": "P000001747",
+    "name": "Phục long can"
+  },
+  {
+    "id": "P000001748",
+    "name": "Phục linh"
+  },
+  {
+    "id": "P000001749",
+    "name": "Phục linh"
+  },
+  {
+    "id": "P000001750",
+    "name": "Phục linh"
+  },
+  {
+    "id": "P000001751",
+    "name": "Phù dung"
+  },
+  {
+    "id": "P000001752",
+    "name": "Phù dung"
+  },
+  {
+    "id": "P000001753",
+    "name": "Phù dung"
+  },
+  {
+    "id": "P000001754",
+    "name": "Phòng phong"
+  },
+  {
+    "id": "P000001755",
+    "name": "Phòng phong"
+  },
+  {
+    "id": "P000001756",
+    "name": "Phòng phong"
+  },
+  {
+    "id": "P000001757",
+    "name": "Phòng kỷ"
+  },
+  {
+    "id": "P000001758",
+    "name": "Phòng kỷ"
+  },
+  {
+    "id": "P000001759",
+    "name": "Phòng kỷ"
+  },
+  {
+    "id": "P000001760",
+    "name": "Phèn đen"
+  },
+  {
+    "id": "P000001761",
+    "name": "Phèn đen"
+  },
+  {
+    "id": "P000001762",
+    "name": "Phèn đen"
+  },
+  {
+    "id": "P000001763",
+    "name": "Phèn đen"
+  },
+  {
+    "id": "P000001764",
+    "name": "Phèn đen"
+  },
+  {
+    "id": "P000001765",
+    "name": "Phèn chua"
+  },
+  {
+    "id": "P000001766",
+    "name": "Phèn chua"
+  },
+  {
+    "id": "P000001767",
+    "name": "Phèn chua"
+  },
+  {
+    "id": "P000001768",
+    "name": "Phân người"
+  },
+  {
+    "id": "P000001769",
+    "name": "Phan tả diệp"
+  },
+  {
+    "id": "P000001770",
+    "name": "Phan tả diệp"
+  },
+  {
+    "id": "P000001771",
+    "name": "Phan tả diệp"
+  },
+  {
+    "id": "P000001772",
+    "name": "Phá cố chỉ"
+  },
+  {
+    "id": "P000001773",
+    "name": "Phá cố chỉ"
+  },
+  {
+    "id": "P000001774",
+    "name": "Phá cố chỉ"
+  },
+  {
+    "id": "P000001775",
+    "name": "Phá cố chỉ"
+  },
+  {
+    "id": "P000001776",
+    "name": "Phá cố chỉ"
+  },
+  {
+    "id": "P000001777",
+    "name": "Ớt ruộng"
+  },
+  {
+    "id": "P000001778",
+    "name": "Ớt ruộng"
+  },
+  {
+    "id": "P000001779",
+    "name": "Ớt ruộng"
+  },
+  {
+    "id": "P000001780",
+    "name": "Ớt làn lá to"
+  },
+  {
+    "id": "P000001781",
+    "name": "Ớt làn lá to"
+  },
+  {
+    "id": "P000001782",
+    "name": "Ớt làn lá nhỏ"
+  },
+  {
+    "id": "P000001783",
+    "name": "Ớt làn lá nhỏ"
+  },
+  {
+    "id": "P000001784",
+    "name": "Cây Ổi (Guava)"
+  },
+  {
+    "id": "P000001785",
+    "name": "Cây Ổi (Guava)"
+  },
+  {
+    "id": "P000001786",
+    "name": "Cây Ổi (Guava)"
+  },
+  {
+    "id": "P000001787",
+    "name": "Ốc sên"
+  },
+  {
+    "id": "P000001788",
+    "name": "Ốc sên"
+  },
+  {
+    "id": "P000001789",
+    "name": "Ốc sên"
+  },
+  {
+    "id": "P000001790",
+    "name": "Ô rô"
+  },
+  {
+    "id": "P000001791",
+    "name": "Ô rô"
+  },
+  {
+    "id": "P000001792",
+    "name": "Ô môi"
+  },
+  {
+    "id": "P000001793",
+    "name": "Ô môi"
+  },
+  {
+    "id": "P000001794",
+    "name": "Ô môi"
+  },
+  {
+    "id": "P000001795",
+    "name": "Ô Đầu và Phụ Tử"
+  },
+  {
+    "id": "P000001796",
+    "name": "Ô Đầu và Phụ Tử"
+  },
+  {
+    "id": "P000001797",
+    "name": "Ô Đầu và Phụ Tử"
+  },
+  {
+    "id": "P000001798",
+    "name": "Ô dược"
+  },
+  {
+    "id": "P000001799",
+    "name": "Ô dược"
+  },
+  {
+    "id": "P000001800",
+    "name": "Ô dược"
+  },
+  {
+    "id": "P000001801",
+    "name": "Ong mật"
+  },
+  {
+    "id": "P000001802",
+    "name": "Ong mật"
+  },
+  {
+    "id": "P000001803",
+    "name": "Ong mật"
+  },
+  {
+    "id": "P000001804",
+    "name": "Ong đen"
+  },
+  {
+    "id": "P000001805",
+    "name": "Ong đen"
+  },
+  {
+    "id": "P000001806",
+    "name": "Ong đen"
+  },
+  {
+    "id": "P000001807",
+    "name": "Mùi tàu"
+  },
+  {
+    "id": "P000001808",
+    "name": "Mùi tàu"
+  },
+  {
+    "id": "P000001809",
+    "name": "Mùi tàu"
+  },
+  {
+    "id": "P000001810",
+    "name": "Mua thấp"
+  },
+  {
+    "id": "P000001811",
+    "name": "Mua thấp"
+  },
+  {
+    "id": "P000001812",
+    "name": "Mua thấp"
+  },
+  {
+    "id": "P000001813",
+    "name": "Mua tép"
+  },
+  {
+    "id": "P000001814",
+    "name": "Mua tép"
+  },
+  {
+    "id": "P000001815",
+    "name": "Mua tép"
+  },
+  {
+    "id": "P000001816",
+    "name": "Mua tép"
+  },
+  {
+    "id": "P000001817",
+    "name": "Mua đỏ"
+  },
+  {
+    "id": "P000001818",
+    "name": "Mua đỏ"
+  },
+  {
+    "id": "P000001819",
+    "name": "Mua đỏ"
+  },
+  {
+    "id": "P000001820",
+    "name": "Mua"
+  },
+  {
+    "id": "P000001821",
+    "name": "Mua"
+  },
+  {
+    "id": "P000001822",
+    "name": "Mua"
+  },
+  {
+    "id": "P000001823",
+    "name": "Mù u"
+  },
+  {
+    "id": "P000001824",
+    "name": "Mù u"
+  },
+  {
+    "id": "P000001825",
+    "name": "Mù u"
+  },
+  {
+    "id": "P000001826",
+    "name": "Mơ lông"
+  },
+  {
+    "id": "P000001827",
+    "name": "Mơ lông"
+  },
+  {
+    "id": "P000001828",
+    "name": "Mơ lông"
+  },
+  {
+    "id": "P000001829",
+    "name": "Quả mơ"
+  },
+  {
+    "id": "P000001830",
+    "name": "Quả mơ"
+  },
+  {
+    "id": "P000001831",
+    "name": "Quả mơ"
+  },
+  {
+    "id": "P000001832",
+    "name": "Một lá"
+  },
+  {
+    "id": "P000001833",
+    "name": "Một lá"
+  },
+  {
+    "id": "P000001834",
+    "name": "Một lá"
+  },
+  {
+    "id": "P000001835",
+    "name": "Mồng tơi"
+  },
+  {
+    "id": "P000001836",
+    "name": "Mồng tơi"
+  },
+  {
+    "id": "P000001837",
+    "name": "Mồng tơi"
+  },
+  {
+    "id": "P000001838",
+    "name": "Mộc tặc"
+  },
+  {
+    "id": "P000001839",
+    "name": "Mộc tặc"
+  },
+  {
+    "id": "P000001840",
+    "name": "Mộc tặc"
+  },
+  {
+    "id": "P000001841",
+    "name": "Mộc thông"
+  },
+  {
+    "id": "P000001842",
+    "name": "Mộc thông"
+  },
+  {
+    "id": "P000001843",
+    "name": "Mộc thông"
+  },
+  {
+    "id": "P000001844",
+    "name": "Mộc qua"
+  },
+  {
+    "id": "P000001845",
+    "name": "Mộc qua"
+  },
+  {
+    "id": "P000001846",
+    "name": "Mộc qua"
+  },
+  {
+    "id": "P000001847",
+    "name": "Nấm mộc nhĩ"
+  },
+  {
+    "id": "P000001848",
+    "name": "Nấm mộc nhĩ"
+  },
+  {
+    "id": "P000001849",
+    "name": "Nấm mộc nhĩ"
+  },
+  {
+    "id": "P000001850",
+    "name": "Mộc hoa trắng"
+  },
+  {
+    "id": "P000001851",
+    "name": "Mộc hoa trắng"
+  },
+  {
+    "id": "P000001852",
+    "name": "Mộc hoa trắng"
+  },
+  {
+    "id": "P000001853",
+    "name": "Mọt"
+  },
+  {
+    "id": "P000001854",
+    "name": "Mọt"
+  },
+  {
+    "id": "P000001855",
+    "name": "Mọt"
+  },
+  {
+    "id": "P000001856",
+    "name": "Móng rồng"
+  },
+  {
+    "id": "P000001857",
+    "name": "Móng rồng"
+  },
+  {
+    "id": "P000001858",
+    "name": "Móng rồng"
+  },
+  {
+    "id": "P000001859",
+    "name": "Óc chó"
+  },
+  {
+    "id": "P000001860",
+    "name": "Óc chó"
+  },
+  {
+    "id": "P000001861",
+    "name": "Óc chó"
+  },
+  {
+    "id": "P000001862",
+    "name": "Nước tiểu"
+  },
+  {
+    "id": "P000001863",
+    "name": "Nước tiểu"
+  },
+  {
+    "id": "P000001864",
+    "name": "Nước tiểu"
+  },
+  {
+    "id": "P000001865",
+    "name": "Nước bọt"
+  },
+  {
+    "id": "P000001866",
+    "name": "Nước bọt"
+  },
+  {
+    "id": "P000001867",
+    "name": "Nước bọt"
+  },
+  {
+    "id": "P000001868",
+    "name": "Núc nác"
+  },
+  {
+    "id": "P000001869",
+    "name": "Núc nác"
+  },
+  {
+    "id": "P000001870",
+    "name": "Núc nác"
+  },
+  {
+    "id": "P000001871",
+    "name": "Nụ áo tím"
+  },
+  {
+    "id": "P000001872",
+    "name": "Nụ áo tím"
+  },
+  {
+    "id": "P000001873",
+    "name": "Nụ áo tím"
+  },
+  {
+    "id": "P000001874",
+    "name": "Nọc ong"
+  },
+  {
+    "id": "P000001875",
+    "name": "Nọc ong"
+  },
+  {
+    "id": "P000001876",
+    "name": "Nọc ong"
+  },
+  {
+    "id": "P000001877",
+    "name": "Niệt gió"
+  },
+  {
+    "id": "P000001878",
+    "name": "Niệt gió"
+  },
+  {
+    "id": "P000001879",
+    "name": "Niệt gió"
+  },
+  {
+    "id": "P000001880",
+    "name": "Niễng"
+  },
+  {
+    "id": "P000001881",
+    "name": "Niễng"
+  },
+  {
+    "id": "P000001882",
+    "name": "Niễng"
+  },
+  {
+    "id": "P000001883",
+    "name": "Nhục đậu khấu"
+  },
+  {
+    "id": "P000001884",
+    "name": "Nhục đậu khấu"
+  },
+  {
+    "id": "P000001885",
+    "name": "Nhục đậu khấu"
+  },
+  {
+    "id": "P000001886",
+    "name": "Nhũ hương"
+  },
+  {
+    "id": "P000001887",
+    "name": "Nhũ hương"
+  },
+  {
+    "id": "P000001888",
+    "name": "Nhũ hương"
+  },
+  {
+    "id": "P000001889",
+    "name": "Nhội"
+  },
+  {
+    "id": "P000001890",
+    "name": "Nhội"
+  },
+  {
+    "id": "P000001891",
+    "name": "Nhội"
+  },
+  {
+    "id": "P000001892",
+    "name": "Nhót tây"
+  },
+  {
+    "id": "P000001893",
+    "name": "Nhót"
+  },
+  {
+    "id": "P000001894",
+    "name": "Nhót"
+  },
+  {
+    "id": "P000001895",
+    "name": "Nhót"
+  },
+  {
+    "id": "P000001896",
+    "name": "Nhó đông"
+  },
+  {
+    "id": "P000001897",
+    "name": "Nhó đông"
+  },
+  {
+    "id": "P000001898",
+    "name": "Nho"
+  },
+  {
+    "id": "P000001899",
+    "name": "Nho"
+  },
+  {
+    "id": "P000001900",
+    "name": "Nho"
+  },
+  {
+    "id": "P000001901",
+    "name": "Nhím"
+  },
+  {
+    "id": "P000001902",
+    "name": "Nhím"
+  },
+  {
+    "id": "P000001903",
+    "name": "Nhím"
+  },
+  {
+    "id": "P000001904",
+    "name": "Nhện"
+  },
+  {
+    "id": "P000001905",
+    "name": "Nhện"
+  },
+  {
+    "id": "P000001906",
+    "name": "Nhện"
+  },
+  {
+    "id": "P000001907",
+    "name": "Nhân trung bạch"
+  },
+  {
+    "id": "P000001908",
+    "name": "Nhân trung bạch"
+  },
+  {
+    "id": "P000001909",
+    "name": "Nhân trung bạch"
+  },
+  {
+    "id": "P000001910",
+    "name": "Nhân trần"
+  },
+  {
+    "id": "P000001911",
+    "name": "Nhân trần"
+  },
+  {
+    "id": "P000001912",
+    "name": "Nhân trần"
+  },
+  {
+    "id": "P000001913",
+    "name": "Móng lưng rồng"
+  },
+  {
+    "id": "P000001914",
+    "name": "Móng lưng rồng"
+  },
+  {
+    "id": "P000001915",
+    "name": "Móc mèo núi"
+  },
+  {
+    "id": "P000001916",
+    "name": "Móc mèo núi"
+  },
+  {
+    "id": "P000001917",
+    "name": "Móc mèo núi"
+  },
+  {
+    "id": "P000001918",
+    "name": "Mỏ quạ"
+  },
+  {
+    "id": "P000001919",
+    "name": "Mỏ quạ"
+  },
+  {
+    "id": "P000001920",
+    "name": "Mỏ quạ"
+  },
+  {
+    "id": "P000001921",
+    "name": "Mò mâm xôi"
+  },
+  {
+    "id": "P000001922",
+    "name": "Mò mâm xôi"
+  },
+  {
+    "id": "P000001923",
+    "name": "Mò mâm xôi"
+  },
+  {
+    "id": "P000001924",
+    "name": "Miết giáp"
+  },
+  {
+    "id": "P000001925",
+    "name": "Miết giáp"
+  },
+  {
+    "id": "P000001926",
+    "name": "Miết giáp"
+  },
+  {
+    "id": "P000001927",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001928",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001929",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001930",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001931",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001932",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001933",
+    "name": "Mía dò"
+  },
+  {
+    "id": "P000001934",
+    "name": "Mía"
+  },
+  {
+    "id": "P000001935",
+    "name": "Mía"
+  },
+  {
+    "id": "P000001936",
+    "name": "Mía"
+  },
+  {
+    "id": "P000001937",
+    "name": "Mèo"
+  },
+  {
+    "id": "P000001938",
+    "name": "Mèo"
+  },
+  {
+    "id": "P000001939",
+    "name": "Mèo"
+  },
+  {
+    "id": "P000001940",
+    "name": "Mè tré"
+  },
+  {
+    "id": "P000001941",
+    "name": "Găng tây"
+  },
+  {
+    "id": "P000001942",
+    "name": "Găng tây"
+  },
+  {
+    "id": "P000001943",
+    "name": "Găng tây"
+  },
+  {
+    "id": "P000001944",
+    "name": "Me rừng"
+  },
+  {
+    "id": "P000001945",
+    "name": "Me rừng"
+  },
+  {
+    "id": "P000001946",
+    "name": "Me rừng"
+  },
+  {
+    "id": "P000001947",
+    "name": "Mè lai"
+  },
+  {
+    "id": "P000001948",
+    "name": "Mè lai"
+  },
+  {
+    "id": "P000001949",
+    "name": "Mè lai"
+  },
+  {
+    "id": "P000001950",
+    "name": "Mè đất"
+  },
+  {
+    "id": "P000001951",
+    "name": "Mè đất"
+  },
+  {
+    "id": "P000001952",
+    "name": "Mè đất"
+  },
+  {
+    "id": "P000001953",
+    "name": "Me"
+  },
+  {
+    "id": "P000001954",
+    "name": "Me"
+  },
+  {
+    "id": "P000001955",
+    "name": "Me"
+  },
+  {
+    "id": "P000001956",
+    "name": "Mây vọt"
+  },
+  {
+    "id": "P000001957",
+    "name": "Mây vọt"
+  },
+  {
+    "id": "P000001958",
+    "name": "Mây vọt"
+  },
+  {
+    "id": "P000001959",
+    "name": "Mẫu lệ"
+  },
+  {
+    "id": "P000001960",
+    "name": "Mẫu lệ"
+  },
+  {
+    "id": "P000001961",
+    "name": "Mẫu lệ"
+  },
+  {
+    "id": "P000001962",
+    "name": "Mẫu đơn bì"
+  },
+  {
+    "id": "P000001963",
+    "name": "Mẫu đơn bì"
+  },
+  {
+    "id": "P000001964",
+    "name": "Mẫu đơn bì"
+  },
+  {
+    "id": "P000001965",
+    "name": "Mật Ong"
+  },
+  {
+    "id": "P000001966",
+    "name": "Mật Ong"
+  },
+  {
+    "id": "P000001967",
+    "name": "Mật Ong"
+  },
+  {
+    "id": "P000001968",
+    "name": "Bách bệnh"
+  },
+  {
+    "id": "P000001969",
+    "name": "Bách bệnh"
+  },
+  {
+    "id": "P000001970",
+    "name": "Bách bệnh"
+  },
+  {
+    "id": "P000001971",
+    "name": "Bách bệnh"
+  },
+  {
+    "id": "P000001972",
+    "name": "Mật mông hoa"
+  },
+  {
+    "id": "P000001973",
+    "name": "Mật mông hoa"
+  },
+  {
+    "id": "P000001974",
+    "name": "Mật mông hoa"
+  },
+  {
+    "id": "P000001975",
+    "name": "Sâm ngọc linh"
+  },
+  {
+    "id": "P000001976",
+    "name": "Sâm ngọc linh"
+  },
+  {
+    "id": "P000001977",
+    "name": "Sâm ngọc linh"
+  },
+  {
+    "id": "P000001978",
+    "name": "Nhân sâm"
+  },
+  {
+    "id": "P000001979",
+    "name": "Nhân sâm"
+  },
+  {
+    "id": "P000001980",
+    "name": "Nhân sâm"
+  },
+  {
+    "id": "P000001981",
+    "name": "Mật gấu"
+  },
+  {
+    "id": "P000001982",
+    "name": "Mật gấu"
+  },
+  {
+    "id": "P000001983",
+    "name": "Mật gấu"
+  },
+  {
+    "id": "P000001984",
+    "name": "Nhau sản phụ"
+  },
+  {
+    "id": "P000001985",
+    "name": "Nhau sản phụ"
+  },
+  {
+    "id": "P000001986",
+    "name": "Nhau sản phụ"
+  },
+  {
+    "id": "P000001987",
+    "name": "Nhàu nước"
+  },
+  {
+    "id": "P000001988",
+    "name": "Nhàu nước"
+  },
+  {
+    "id": "P000001989",
+    "name": "Nhàu nước"
+  },
+  {
+    "id": "P000001990",
+    "name": "Mật động vật – đởm"
+  },
+  {
+    "id": "P000001991",
+    "name": "Mật đà tăng"
+  },
+  {
+    "id": "P000001992",
+    "name": "Mật đà tăng"
+  },
+  {
+    "id": "P000001993",
+    "name": "Mật đà tăng"
+  },
+  {
+    "id": "P000001994",
+    "name": "Nhàu"
+  },
+  {
+    "id": "P000001995",
+    "name": "Nhàu"
+  },
+  {
+    "id": "P000001996",
+    "name": "Nhàu"
+  },
+  {
+    "id": "P000001997",
+    "name": "Nhãn hương"
+  },
+  {
+    "id": "P000001998",
+    "name": "Nhãn hương"
+  },
+  {
+    "id": "P000001999",
+    "name": "Nhãn hương"
+  },
+  {
+    "id": "P000002000",
+    "name": "Nhãn"
+  },
+  {
+    "id": "P000002001",
+    "name": "Nhãn"
+  },
+  {
+    "id": "P000002002",
+    "name": "Nhãn"
+  },
+  {
+    "id": "P000002003",
+    "name": "Mận rừng"
+  },
+  {
+    "id": "P000002004",
+    "name": "Nhái"
+  },
+  {
+    "id": "P000002005",
+    "name": "Nhái"
+  },
+  {
+    "id": "P000002006",
+    "name": "Nhái"
+  },
+  {
+    "id": "P000002007",
+    "name": "Mận"
+  },
+  {
+    "id": "P000002008",
+    "name": "Mận"
+  },
+  {
+    "id": "P000002009",
+    "name": "Mận"
+  },
+  {
+    "id": "P000002010",
+    "name": "Ngưu tất"
+  },
+  {
+    "id": "P000002011",
+    "name": "Ngưu tất"
+  },
+  {
+    "id": "P000002012",
+    "name": "Ngưu tất"
+  },
+  {
+    "id": "P000002013",
+    "name": "Ngưu hoàng"
+  },
+  {
+    "id": "P000002014",
+    "name": "Ngưu hoàng"
+  },
+  {
+    "id": "P000002015",
+    "name": "Ngưu hoàng"
+  },
+  {
+    "id": "P000002016",
+    "name": "Mặt quỷ"
+  },
+  {
+    "id": "P000002017",
+    "name": "Mặt quỷ"
+  },
+  {
+    "id": "P000002018",
+    "name": "Ngưu bàng"
+  },
+  {
+    "id": "P000002019",
+    "name": "Ngưu bàng"
+  },
+  {
+    "id": "P000002020",
+    "name": "Ngưu bàng"
+  },
+  {
+    "id": "P000002021",
+    "name": "Ngựa"
+  },
+  {
+    "id": "P000002022",
+    "name": "Ngựa"
+  },
+  {
+    "id": "P000002023",
+    "name": "Ngựa"
+  },
+  {
+    "id": "P000002024",
+    "name": "Măng tây"
+  },
+  {
+    "id": "P000002025",
+    "name": "Măng tây"
+  },
+  {
+    "id": "P000002026",
+    "name": "Măng tây"
+  },
+  {
+    "id": "P000002027",
+    "name": "Nguyệt quý"
+  },
+  {
+    "id": "P000002028",
+    "name": "Nguyệt quý"
+  },
+  {
+    "id": "P000002029",
+    "name": "Nguyệt quý"
+  },
+  {
+    "id": "P000002030",
+    "name": "Măng cụt"
+  },
+  {
+    "id": "P000002031",
+    "name": "Măng cụt"
+  },
+  {
+    "id": "P000002032",
+    "name": "Mắm trắng"
+  },
+  {
+    "id": "P000002033",
+    "name": "Mắm trắng"
+  },
+  {
+    "id": "P000002034",
+    "name": "Mắm trắng"
+  },
+  {
+    "id": "P000002035",
+    "name": "Mắm trắng"
+  },
+  {
+    "id": "P000002036",
+    "name": "Mắm"
+  },
+  {
+    "id": "P000002037",
+    "name": "Mắm"
+  },
+  {
+    "id": "P000002038",
+    "name": "Mắm"
+  },
+  {
+    "id": "P000002039",
+    "name": "Ngũ trảo"
+  },
+  {
+    "id": "P000002040",
+    "name": "Ngũ trảo"
+  },
+  {
+    "id": "P000002041",
+    "name": "Cây ngũ trảo"
+  },
+  {
+    "id": "P000002042",
+    "name": "Cây ngũ trảo"
+  },
+  {
+    "id": "P000002043",
+    "name": "Cây ngũ trảo"
+  },
+  {
+    "id": "P000002044",
+    "name": "Mạy chỉ chăm"
+  },
+  {
+    "id": "P000002045",
+    "name": "Mạy chỉ chăm"
+  },
+  {
+    "id": "P000002046",
+    "name": "Mạy chỉ chăm"
+  },
+  {
+    "id": "P000002047",
+    "name": "Ngũ gia bì hương"
+  },
+  {
+    "id": "P000002048",
+    "name": "Ngũ gia bì hương"
+  },
+  {
+    "id": "P000002049",
+    "name": "Ngũ gia bì hương"
+  },
+  {
+    "id": "P000002050",
+    "name": "Ngũ gia bì hương"
+  },
+  {
+    "id": "P000002051",
+    "name": "Ngũ linh chi"
+  },
+  {
+    "id": "P000002052",
+    "name": "Ngũ linh chi"
+  },
+  {
+    "id": "P000002053",
+    "name": "Ngũ linh chi"
+  },
+  {
+    "id": "P000002054",
+    "name": "Máu chó"
+  },
+  {
+    "id": "P000002055",
+    "name": "Máu chó"
+  },
+  {
+    "id": "P000002056",
+    "name": "Máu chó"
+  },
+  {
+    "id": "P000002057",
+    "name": "Ngũ gia bì gai"
+  },
+  {
+    "id": "P000002058",
+    "name": "Ngũ gia bì gai"
+  },
+  {
+    "id": "P000002059",
+    "name": "Ngũ gia bì gai"
+  },
+  {
+    "id": "P000002060",
+    "name": "Ngũ gia bì gai"
+  },
+  {
+    "id": "P000002061",
+    "name": "Cây mào gà trắng"
+  },
+  {
+    "id": "P000002062",
+    "name": "Cây mào gà trắng"
+  },
+  {
+    "id": "P000002063",
+    "name": "Cây mào gà trắng"
+  },
+  {
+    "id": "P000002064",
+    "name": "Cây mào gà trắng"
+  },
+  {
+    "id": "P000002065",
+    "name": "Mào gà đỏ"
+  },
+  {
+    "id": "P000002066",
+    "name": "Mào gà đỏ"
+  },
+  {
+    "id": "P000002067",
+    "name": "Mào gà đỏ"
+  },
+  {
+    "id": "P000002068",
+    "name": "Mang tiêu"
+  },
+  {
+    "id": "P000002069",
+    "name": "Mang tiêu"
+  },
+  {
+    "id": "P000002070",
+    "name": "Mang tiêu"
+  },
+  {
+    "id": "P000002071",
+    "name": "Màng tang"
+  },
+  {
+    "id": "P000002072",
+    "name": "Màng tang"
+  },
+  {
+    "id": "P000002073",
+    "name": "Màng tang"
+  },
+  {
+    "id": "P000002074",
+    "name": "Màng tang"
+  },
+  {
+    "id": "P000002075",
+    "name": "Màng tang"
+  },
+  {
+    "id": "P000002076",
+    "name": "Mãng cầu xiêm"
+  },
+  {
+    "id": "P000002077",
+    "name": "Mãng cầu xiêm"
+  },
+  {
+    "id": "P000002078",
+    "name": "Mãng cầu xiêm"
+  },
+  {
+    "id": "P000002079",
+    "name": "Màn màn vàng"
+  },
+  {
+    "id": "P000002080",
+    "name": "Màn màn vàng"
+  },
+  {
+    "id": "P000002081",
+    "name": "Màn màn vàng"
+  },
+  {
+    "id": "P000002082",
+    "name": "Ngô thù du"
+  },
+  {
+    "id": "P000002083",
+    "name": "Ngô thù du"
+  },
+  {
+    "id": "P000002084",
+    "name": "Ngô thù du"
+  },
+  {
+    "id": "P000002085",
+    "name": "Ngô đồng"
+  },
+  {
+    "id": "P000002086",
+    "name": "Ngô đồng"
+  },
+  {
+    "id": "P000002087",
+    "name": "Ngô đồng"
+  },
+  {
+    "id": "P000002088",
+    "name": "Ngô"
+  },
+  {
+    "id": "P000002089",
+    "name": "Ngô"
+  },
+  {
+    "id": "P000002090",
+    "name": "Ngô"
+  },
+  {
+    "id": "P000002091",
+    "name": "Ngọt nghẹo"
+  },
+  {
+    "id": "P000002092",
+    "name": "Ngọt nghẹo"
+  },
+  {
+    "id": "P000002093",
+    "name": "Ngọt nghẹo"
+  }
+]

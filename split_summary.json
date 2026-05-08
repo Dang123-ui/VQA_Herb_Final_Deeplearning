@@ -1,0 +1,26 @@
+{
+  "train": {
+    "images": 3032,
+    "qa_pairs": 23211,
+    "names": 1029,
+    "folder": "train",
+    "json": "train\\train.json",
+    "jsonl": "train\\train.jsonl"
+  },
+  "valid": {
+    "images": 379,
+    "qa_pairs": 2998,
+    "names": 126,
+    "folder": "valid",
+    "json": "valid\\valid.json",
+    "jsonl": "valid\\valid.jsonl"
+  },
+  "test": {
+    "images": 380,
+    "qa_pairs": 2952,
+    "names": 133,
+    "folder": "test",
+    "json": "test\\test.json",
+    "jsonl": "test\\test.jsonl"
+  }
+}

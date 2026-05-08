@@ -1,0 +1,35 @@
+# Python / environment
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Secrets / local config
+.env
+demo/.env
+*.key
+*.token
+
+# Large artifacts already hosted on Hugging Face
+images_final/
+train/images/
+valid/images/
+test/images/
+*.zip
+final_finetuned_adapter/
+final_ppo_adapter/
+
+# Local temporary files
+~$*
+~WRL*.tmp
+*.tmp
+
+# Generated media / office artifacts not needed for source repo
+*.mp4
+*.docx
+
+# Optional local caches
+.cache/
+wandb/
+runs/

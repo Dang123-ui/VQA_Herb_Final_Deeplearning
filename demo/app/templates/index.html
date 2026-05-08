@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html class="light" lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <title>{{ app_name }}</title>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap" rel="stylesheet" />
+  <script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "background": "#f7f9f7",
+            "surface": "#ffffff",
+            "surface-muted": "#eef3ee",
+            "surface-strong": "#dfe9e1",
+            "primary": "#176b45",
+            "primary-strong": "#0d4f32",
+            "primary-soft": "#dff4e8",
+            "secondary": "#55645b",
+            "outline": "#c4d0c7",
+            "on-surface": "#17201a",
+            "on-muted": "#506057",
+            "on-primary": "#ffffff"
+          },
+          fontFamily: {
+            "headline": ["Manrope"],
+            "body": ["Inter"],
+            "label": ["Inter"]
+          },
+          borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+        },
+      },
+    }
+  </script>
+  <link rel="stylesheet" href="{{ url_for('static', path='/css/custom.css') }}" />
+</head>
+<body class="bg-background text-on-surface font-body antialiased min-h-screen flex flex-col">
+<header class="bg-white/90 backdrop-blur shadow-[0_12px_40px_rgba(23,32,26,0.07)] sticky top-0 z-50">
+  <div class="flex justify-between items-center w-full px-6 lg:px-8 py-5 max-w-[1440px] mx-auto">
+    <div class="flex items-center gap-3">
+      <span class="material-symbols-outlined text-primary text-3xl">local_florist</span>
+      <div>
+        <h1 class="text-lg lg:text-xl font-extrabold text-slate-900 font-headline tracking-tight">{{ app_name }}</h1>
+        <p class="text-xs text-on-muted">Pipeline B fine-tuned</p>
+      </div>
+    </div>
+    <div class="hidden md:flex items-center gap-2 text-sm font-medium text-on-muted">
+      <span class="material-symbols-outlined text-base">model_training</span>
+      {{ model_name }}
+    </div>
+  </div>
+</header>
+
+<main class="flex-grow w-full max-w-[1440px] mx-auto px-6 lg:px-8 py-14 lg:py-20">
+  <div class="text-center mb-12">
+    <p class="text-primary font-bold uppercase tracking-[0.22em] text-xs mb-3">Vietnamese Medicinal Herb VQA</p>
+    <h2 class="font-headline text-3xl lg:text-5xl font-extrabold text-on-surface tracking-tight mb-4">
+      Hỏi đáp ảnh dược liệu Việt Nam
+    </h2>
+    <p class="text-on-muted max-w-2xl mx-auto text-base lg:text-lg">
+      Upload ảnh cây thuốc, nhập câu hỏi tiếng Việt và nhận câu trả lời từ Qwen2.5-VL đã fine-tune bằng QLoRA.
+    </p>
+  </div>
+
+  <div class="grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-10 lg:gap-16 items-start">
+    <section class="flex flex-col gap-6">
+      <div class="flex items-center gap-3">
+        <span class="material-symbols-outlined text-primary">upload_file</span>
+        <h3 class="font-headline text-2xl font-bold tracking-tight">Input</h3>
+      </div>
+
+      <div class="bg-surface p-6 lg:p-8 rounded-xl shadow-[0_12px_40px_rgba(23,32,26,0.07)] flex flex-col gap-8">
+        <form id="predict-form" class="contents">
+          <div class="space-y-4">
+            <div class="flex justify-between items-center gap-4">
+              <label class="font-body text-lg font-semibold text-on-surface">Chọn ảnh</label>
+              <label for="image-input" class="bg-surface-strong text-on-surface px-5 py-2 rounded-lg font-semibold text-sm hover:bg-primary-soft transition-all flex items-center gap-2 cursor-pointer">
+                <span class="material-symbols-outlined text-sm">add_photo_alternate</span>
+                Tải ảnh
+              </label>
+            </div>
+
+            <input id="image-input" name="image" type="file" accept="image/*" class="hidden" required />
+
+            <div class="relative group aspect-video overflow-hidden rounded-xl bg-surface-muted border border-outline">
+              <img
+                id="image-preview"
+                alt="Ảnh dược liệu xem trước"
+                class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                src="https://placehold.co/1280x720/dfe9e1/506057?text=Upload+Herb+Image"
+              />
+            </div>
+          </div>
+
+          <div class="space-y-4">
+            <label class="font-body text-lg font-semibold text-on-surface" for="question-input">Câu hỏi</label>
+            <textarea
+              id="question-input"
+              name="question"
+              class="w-full min-h-[120px] bg-white border border-outline rounded-lg p-4 focus:ring-2 focus:ring-primary/30 focus:border-primary transition-all text-on-surface font-body resize-none"
+              placeholder="Ví dụ: Hoa trong ảnh có màu gì?"
+              required
+            ></textarea>
+            <div class="flex flex-wrap gap-3">
+              <button type="button" class="sample-question-chip" data-question="Đây là loại dược liệu gì?">Đây là dược liệu gì?</button>
+              <button type="button" class="sample-question-chip" data-question="Hoa trong ảnh có màu gì?">Hoa màu gì?</button>
+              <button type="button" class="sample-question-chip" data-question="Trong ảnh có xuất hiện hoa không?">Có hoa không?</button>
+              <button type="button" class="sample-question-chip" data-question="Bộ phận nào của cây dùng làm thuốc?">Bộ phận làm thuốc?</button>
+            </div>
+          </div>
+
+          <button id="submit-button" type="submit" class="w-full h-14 bg-gradient-to-r from-primary to-primary-strong text-on-primary rounded-lg font-headline text-sm font-bold uppercase tracking-widest shadow-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-3 mt-2">
+            <span class="material-symbols-outlined">auto_awesome</span>
+            Sinh câu trả lời
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <section class="flex flex-col gap-6">
+      <div class="flex items-center gap-3">
+        <span class="material-symbols-outlined text-primary">psychology</span>
+        <h3 class="font-headline text-2xl font-bold tracking-tight">Output</h3>
+      </div>
+
+      <div class="bg-surface p-6 lg:p-8 rounded-xl shadow-[0_12px_40px_rgba(23,32,26,0.07)] flex flex-col gap-8">
+        <div class="space-y-4">
+          <label class="font-body text-lg font-semibold text-on-muted">Câu trả lời từ mô hình</label>
+          <div class="bg-surface-muted p-6 rounded-lg border-l-4 border-primary min-h-[140px] flex items-center">
+            <p id="answer-output" class="text-2xl lg:text-3xl font-extrabold text-on-surface font-headline leading-snug">Chưa có kết quả</p>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div class="metric-tile">
+            <span class="material-symbols-outlined">schedule</span>
+            <div>
+              <p class="metric-label">Inference</p>
+              <p id="inference-output" class="metric-value">-- ms</p>
+            </div>
+          </div>
+          <div class="metric-tile">
+            <span class="material-symbols-outlined">cloud</span>
+            <div>
+              <p class="metric-label">Backend</p>
+              <p class="metric-value">Colab Gradio</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="pt-5 border-t border-outline/70 text-xs text-on-muted space-y-2">
+          <p><span class="font-semibold">Model:</span> {{ model_name }}</p>
+          <p><span class="font-semibold">Gradio API:</span> <span id="api-url">{{ gradio_api_url or "Chưa cấu hình" }}</span></p>
+          <p id="status-output" class="text-sm text-on-muted"></p>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>
+
+<footer class="bg-white py-8 border-t border-outline/50 mt-auto">
+  <div class="flex flex-col md:flex-row justify-between items-center px-6 lg:px-8 w-full max-w-[1440px] mx-auto gap-4">
+    <p class="text-sm text-on-muted">
+      Demo Hướng B fine-tuned cho bài toán Visual Question Answering dược liệu Việt Nam.
+    </p>
+    <nav class="flex flex-wrap justify-center gap-x-6 gap-y-3">
+      <a class="footer-link" href="/docs">Swagger</a>
+      <a class="footer-link" href="/health">Health</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="{{ url_for('static', path='/js/app.js') }}"></script>
+</body>
+</html>
